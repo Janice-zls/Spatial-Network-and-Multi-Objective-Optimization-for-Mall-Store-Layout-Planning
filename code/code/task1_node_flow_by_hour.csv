@@ -1,0 +1,4165 @@
+﻿hour,node_id,floor,node_category,node_name,flow
+10,C-WEST-LOOP,M,Corridor,West atrium loop corridor,17
+10,C-WEST-VERTICAL,M,Corridor,West vertical corridor,243
+10,C-WEST-MAIN,M,Corridor,West main corridor,96
+10,C-CENTER-WEST,M,Corridor,Center west corridor,116
+10,C-CENTER-NORTH,M,Corridor,Center north corridor,25
+10,C-CENTER-SOUTH,M,Corridor,Center south corridor,298
+10,C-EAST-HUB,M,Corridor,East hub corridor,48
+10,C-EAST-BRIDGE,M,Corridor,East bridge corridor,4
+10,C-EAST-TERMINAL,M,Corridor,East terminal corridor,0
+10,C-SOUTH-ENTRY,M,Corridor,South entry corridor,397
+10,M37b,M,Retail,M37b,0
+10,M36,M,Retail,M36,0
+10,M35,M,Retail,M35,1
+10,M34,M,Retail,M34,0
+10,M33,M,Retail,M33,6
+10,M32,M,Retail,M32,2
+10,M31,M,Retail,M31,3
+10,M30,M,Retail,M30,7
+10,M29,M,Retail,M29,2
+10,M28,M,Retail,M28,6
+10,M27,M,Retail,M27,1
+10,M26,M,Retail,M26,8
+10,M25,M,Retail,M25,4
+10,M24,M,Retail,M24,1
+10,M23,M,Retail,M23,0
+10,M22,M,Retail,M22,0
+10,M21,M,Anchor_Retail,M21,2
+10,M20,M,Retail,M20,0
+10,M19,M,Retail,M19,0
+10,M17_M18,M,Retail,M17 & M18,2
+10,M16,M,Retail,M16,0
+10,M15,M,Retail,M15,1
+10,M14,M,Retail,M14,0
+10,M13,M,Retail,M13,6
+10,M12b,M,Retail,M12b,0
+10,M12a,M,Anchor_Retail,M12a,0
+10,M10_M11,M,Retail,M10 & M11,0
+10,M09,M,Retail,M09,3
+10,M08,M,Retail,M08,0
+10,M07,M,Retail,M07,2
+10,M06,M,Retail,M06,2
+10,M05,M,Retail,M05,11
+10,M04,M,Retail,M04,2
+10,M03,M,Retail,M03,14
+10,M02,M,Retail,M02,24
+10,M01,M,Anchor_Retail,M01,43
+10,M68,M,Retail,M68,63
+10,M67,M,Retail,M67,30
+10,M66,M,Retail,M66,24
+10,M65,M,Retail,M65,30
+10,M64,M,Retail,M64,36
+10,M63,M,Retail,M63,12
+10,M62,M,Retail,M62,5
+10,M61,M,Retail,M61,6
+10,M60,M,Retail,M60,3
+10,M59,M,Retail,M59,2
+10,M58,M,Retail,M58,2
+10,M57,M,Retail,M57,9
+10,M56,M,Retail,M56,16
+10,M55,M,Retail,M55,11
+10,M54,M,Retail,M54,2
+10,M53,M,Retail,M53,8
+10,M52,M,Retail,M52,23
+10,M51,M,Retail,M51,26
+10,M50,M,Retail,M50,4
+10,M49,M,Retail,M49,0
+10,M48b,M,Retail,M48b,2
+10,M48a,M,Retail,M48a,4
+10,M47,M,Retail,M47,12
+10,M46,M,Retail,M46,17
+10,M45,M,Retail,M45,11
+10,M44,M,Retail,M44,6
+10,M43,M,Retail,M43,16
+10,M42,M,Retail,M42,4
+10,M41a,M,Retail,M41a,16
+10,M41b,M,Retail,M41b,10
+10,M40,M,Retail,M40,0
+10,M39,M,Retail,M39,0
+10,M38,M,Retail,M38,0
+10,M15a,M,Retail_Kiosk,M15a,2
+10,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,0
+10,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,20
+10,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+10,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,1
+10,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,6
+10,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,0
+10,F-ELEV-01,M,Facility_Elevator,Elevator bank,0
+10,F-ELEV-02,M,Facility_Elevator,Elevator bank,0
+10,F-ESC-01,M,Facility_Escalator,Escalator,2
+10,F-ESC-02,M,Facility_Escalator,Escalator,4
+10,F-ESC-03,M,Facility_Escalator,Escalator,0
+10,F-ESC-04,M,Facility_Escalator,Escalator,0
+10,F-ESC-05,M,Facility_Escalator,Escalator,16
+10,F-ESC-06,M,Facility_Escalator,Escalator,0
+10,F-ESC-07,M,Facility_Escalator,Escalator,0
+10,F-PARK-01,M,Facility_Parking,Parking access,1
+10,F-PARK-02,M,Facility_Parking,Parking access,0
+10,F-PARK-03,M,Facility_Parking,Parking access,1
+10,F-INFO-01,M,Facility_Service,Information desk,0
+10,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,0
+10,E-TRANSIT-01,M,Entrance,Southwest transit entrance,64
+10,E-BUS-01,M,Entrance,South transit / bus access,50
+10,E-TRANSIT-02,M,Entrance,South transit / rail access,66
+10,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,368
+10,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,146
+10,MU-C-WEST-MAIN,MU,Corridor,West main corridor,32
+10,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,248
+10,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,107
+10,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,179
+10,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,421
+10,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,35
+10,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,12
+10,MU-C-EAST-HUB,MU,Corridor,East central corridor,144
+10,MU-C-EAST-WING,MU,Corridor,East wing corridor,88
+10,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,14
+10,MU34,MU,Retail,MU34,4
+10,MU35,MU,Anchor_Retail,MU35,31
+10,MU36,MU,Retail,MU36,2
+10,MU37,MU,Retail,MU37,9
+10,MU38,MU,Retail,MU38,24
+10,MU39,MU,Retail,MU39,19
+10,MU40,MU,Retail,MU40,2
+10,MU41a,MU,Retail,MU41a,24
+10,MU41b,MU,Retail,MU41b,9
+10,MU42,MU,Anchor_Retail,MU42,14
+10,MU43a,MU,Retail,MU43a,8
+10,MU43b,MU,Retail,MU43b,6
+10,MU44,MU,Retail,MU44,14
+10,MU45,MU,Retail,MU45,10
+10,MU45a,MU,Retail,MU45a,7
+10,MU46,MU,Retail,MU46,9
+10,MU47a,MU,Retail,MU47a,25
+10,MU47b,MU,Retail,MU47b,13
+10,MU48,MU,Retail,MU48,27
+10,MU49,MU,Retail,MU49,3
+10,MU50,MU,Retail,MU50,6
+10,MU51,MU,Retail,MU51,7
+10,MU52,MU,Retail,MU52,6
+10,MU53,MU,Retail,MU53,0
+10,MU54,MU,Retail,MU54,2
+10,MU55,MU,Anchor_Retail,MU55,8
+10,MU32_MU33,MU,Retail_Combined,MU32 & MU33,30
+10,MU31,MU,Retail,MU31,23
+10,MU29_MU30,MU,Retail_Combined,MU29 & MU30,21
+10,MU28,MU,Retail,MU28,8
+10,MU27,MU,Retail,MU27,1
+10,MU26,MU,Retail,MU26,2
+10,MU25,MU,Retail,MU25,4
+10,MU24,MU,Retail,MU24,0
+10,MU22,MU,Retail,MU22,4
+10,MU20,MU,Retail,MU20,17
+10,MU21,MU,Retail,MU21,20
+10,MU19,MU,Retail,MU19,15
+10,MU18,MU,Retail,MU18,22
+10,MU17,MU,Retail_Kiosk,MU17,29
+10,MU16g_h,MU,Retail_Combined,MU16g & MU16h,30
+10,MU16f,MU,Retail,MU16f,29
+10,MU16e,MU,Retail,MU16e,19
+10,MU16d,MU,Retail,MU16d,13
+10,MU16c,MU,Retail,MU16c,6
+10,MU16k,MU,Retail_Kiosk,MU16k,11
+10,MU16i,MU,Retail_Kiosk,MU16i,18
+10,MU16j,MU,Retail_Kiosk,MU16j,22
+10,MU16l,MU,Retail_Kiosk,MU16l,15
+10,MU16b,MU,Retail,MU16b,15
+10,MU16a,MU,Retail_Kiosk,MU16a,14
+10,MU15,MU,Retail,MU15,1
+10,MU14,MU,Retail,MU14,1
+10,MU13,MU,Retail,MU13,12
+10,MU12,MU,Retail,MU12,5
+10,MU11,MU,Retail,MU11,4
+10,MU10,MU,Retail,MU10,6
+10,MU08_MU09,MU,Retail_Combined,MU08 & MU09,16
+10,MU07a,MU,Anchor_Retail,MU07a,2
+10,MU07b,MU,Anchor_Retail,MU07b,6
+10,MU06,MU,Retail,MU06,4
+10,MU05,MU,Retail,MU05,6
+10,MU04,MU,Retail,MU04,9
+10,MU03b,MU,Retail,MU03b,6
+10,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,5
+10,MU02a,MU,Retail,MU02a,4
+10,MU01,MU,Anchor_Retail,MU01,4
+10,MU01b,MU,Retail,MU01b,0
+10,MU01c,MU,Retail,MU01c,0
+10,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,1
+10,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,0
+10,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,6
+10,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,4
+10,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,8
+10,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,0
+10,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,0
+10,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,4
+10,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,2
+10,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,2
+10,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,5
+10,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,2
+10,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,8
+10,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,8
+10,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,63
+10,MU-ENT-WEST,MU,Entrance,West entry / exit,73
+10,MU-ENT-EAST,MU,Entrance,East entry / exit,43
+10,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,65
+10,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,263
+10,L1-C-WEST-MAIN,L1,Corridor,West main corridor,146
+10,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,150
+10,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,392
+10,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,154
+10,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,22
+10,L1-C-EAST-HUB,L1,Corridor,East hub corridor,170
+10,L1-C-EAST-WING,L1,Corridor,East wing corridor,85
+10,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,15
+10,L1-L119,L1,Retail,L119,45
+10,L1-L118,L1,Retail,L118,42
+10,L1-L117,L1,Retail,L117,30
+10,L1-L116,L1,Retail,L116,57
+10,L1-L115,L1,Retail,L115,36
+10,L1-L114,L1,Retail,L114,106
+10,L1-L113,L1,Retail,L113,78
+10,L1-L112,L1,Retail,L112,92
+10,L1-L111,L1,Retail,L111,63
+10,L1-L110,L1,Retail,L110,20
+10,L1-L109,L1,Retail,L109,26
+10,L1-L108,L1,Retail,L108,34
+10,L1-L108A,L1,Retail,L108a,58
+10,L1-L1H-1,L1,Retail,L1H(1),27
+10,L1-L106-L107,L1,Retail_Combined,L106 & L107,39
+10,L1-L105,L1,Retail,L105,18
+10,L1-L104,L1,Retail,L104,23
+10,L1-L103,L1,Retail,L103,13
+10,L1-L102,L1,Retail,L102,15
+10,L1-L101,L1,Retail,L101,36
+10,L1-L120B,L1,Retail,L120b,7
+10,L1-L120,L1,Retail,L120,34
+10,L1-L121,L1,Retail,L121,36
+10,L1-L122,L1,Retail,L122,38
+10,L1-L123,L1,Retail,L123,43
+10,L1-L124,L1,Retail,L124,40
+10,L1-L125,L1,Retail,L125,68
+10,L1-MOH-L101,L1,Hotel_Service,MOH L101,0
+10,L1-MOH-L102,L1,Hotel_Service,MOH L102,3
+10,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",0
+10,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,4
+10,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,5
+10,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,24
+10,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,3
+10,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,0
+10,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,19
+10,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,6
+10,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,2
+10,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,4
+10,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,6
+10,L1-F-INFO-WEST,L1,Facility_Service,Information desk,8
+10,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,3
+10,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,4
+10,L1-ENT-WEST,L1,Entrance,West entrance / exit,76
+10,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,63
+10,L1-ENT-EAST,L1,Entrance,East entrance / exit,66
+10,L1-ENT-SOUTH,L1,Entrance,South transit entrance,63
+10,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+10,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+10,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+10,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+10,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+10,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+10,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+10,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+10,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+10,L2-L227,L2,Retail,L227,0
+10,L2-L226,L2,Retail,L226,0
+10,L2-L225B,L2,Retail,L225b,0
+10,L2-L225A,L2,Retail,L225a,0
+10,L2-L224,L2,Retail,L224,0
+10,L2-L223,L2,Retail,L223,0
+10,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+10,L2-L220,L2,Retail,L220,0
+10,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+10,L2-L217,L2,Retail,L217,0
+10,L2-L216,L2,Retail,L216,0
+10,L2-L215,L2,Retail,L215,0
+10,L2-L214,L2,Retail,L214,0
+10,L2-L213,L2,Retail,L213,0
+10,L2-L211,L2,Retail,L211,0
+10,L2-L210B,L2,Retail,L210b,0
+10,L2-L210A,L2,Retail,L210a,0
+10,L2-L209,L2,Retail,L209,0
+10,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+10,L2-L206,L2,Retail,L206,0
+10,L2-L205,L2,Retail,L205,0
+10,L2-L204,L2,Retail,L204,0
+10,L2-L203,L2,Retail,L203,0
+10,L2-L202,L2,Retail,L202,0
+10,L2-L201,L2,Retail,L201,0
+10,L2-L228,L2,Retail,L228,0
+10,L2-L229A,L2,Retail,L229a,0
+10,L2-L229B,L2,Retail,L229b,0
+10,L2-L230,L2,Retail,L230,0
+10,L2-L231,L2,Retail,L231,0
+10,L2-L232,L2,Retail,L232,0
+10,L2-L233,L2,Retail,L233,0
+10,L2-L234,L2,Retail,L234,0
+10,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+10,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+10,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+10,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+10,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+10,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+10,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+10,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+10,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+10,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+10,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+10,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+10,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+10,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+10,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+10,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+10,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+10,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+10,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+10,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+10,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+10,L3-L302,L3,Retail,L302,0
+10,L3-L303,L3,Retail,L303,0
+10,L3-L304,L3,Retail,L304,0
+10,L3-L305,L3,Retail,L305,0
+10,L3-L306,L3,Retail,L306,0
+10,L3-L307,L3,Retail,L307,0
+10,L3-L308A,L3,Retail,L308a,0
+10,L3-L308B,L3,Retail,L308b,0
+10,L3-L308C,L3,Retail,L308c,0
+10,L3-L308D,L3,Retail,L308d,0
+10,L3-L308E,L3,Retail,L308e,0
+10,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+10,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+10,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+10,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+10,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+10,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+10,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+10,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+10,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+10,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+10,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+10,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+10,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+10,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+10,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+11,C-WEST-LOOP,M,Corridor,West atrium loop corridor,75
+11,C-WEST-VERTICAL,M,Corridor,West vertical corridor,540
+11,C-WEST-MAIN,M,Corridor,West main corridor,376
+11,C-CENTER-WEST,M,Corridor,Center west corridor,424
+11,C-CENTER-NORTH,M,Corridor,Center north corridor,171
+11,C-CENTER-SOUTH,M,Corridor,Center south corridor,671
+11,C-EAST-HUB,M,Corridor,East hub corridor,161
+11,C-EAST-BRIDGE,M,Corridor,East bridge corridor,8
+11,C-EAST-TERMINAL,M,Corridor,East terminal corridor,0
+11,C-SOUTH-ENTRY,M,Corridor,South entry corridor,700
+11,M37b,M,Retail,M37b,0
+11,M36,M,Retail,M36,2
+11,M35,M,Retail,M35,2
+11,M34,M,Retail,M34,10
+11,M33,M,Retail,M33,42
+11,M32,M,Retail,M32,3
+11,M31,M,Retail,M31,7
+11,M30,M,Retail,M30,12
+11,M29,M,Retail,M29,12
+11,M28,M,Retail,M28,55
+11,M27,M,Retail,M27,12
+11,M26,M,Retail,M26,31
+11,M25,M,Retail,M25,6
+11,M24,M,Retail,M24,12
+11,M23,M,Retail,M23,2
+11,M22,M,Retail,M22,3
+11,M21,M,Anchor_Retail,M21,32
+11,M20,M,Retail,M20,1
+11,M19,M,Retail,M19,2
+11,M17_M18,M,Retail,M17 & M18,4
+11,M16,M,Retail,M16,8
+11,M15,M,Retail,M15,14
+11,M14,M,Retail,M14,9
+11,M13,M,Retail,M13,16
+11,M12b,M,Retail,M12b,2
+11,M12a,M,Anchor_Retail,M12a,0
+11,M10_M11,M,Retail,M10 & M11,0
+11,M09,M,Retail,M09,9
+11,M08,M,Retail,M08,6
+11,M07,M,Retail,M07,6
+11,M06,M,Retail,M06,2
+11,M05,M,Retail,M05,49
+11,M04,M,Retail,M04,30
+11,M03,M,Retail,M03,25
+11,M02,M,Retail,M02,41
+11,M01,M,Anchor_Retail,M01,96
+11,M68,M,Retail,M68,112
+11,M67,M,Retail,M67,58
+11,M66,M,Retail,M66,48
+11,M65,M,Retail,M65,64
+11,M64,M,Retail,M64,96
+11,M63,M,Retail,M63,23
+11,M62,M,Retail,M62,15
+11,M61,M,Retail,M61,27
+11,M60,M,Retail,M60,22
+11,M59,M,Retail,M59,8
+11,M58,M,Retail,M58,22
+11,M57,M,Retail,M57,36
+11,M56,M,Retail,M56,30
+11,M55,M,Retail,M55,38
+11,M54,M,Retail,M54,13
+11,M53,M,Retail,M53,28
+11,M52,M,Retail,M52,24
+11,M51,M,Retail,M51,56
+11,M50,M,Retail,M50,17
+11,M49,M,Retail,M49,5
+11,M48b,M,Retail,M48b,7
+11,M48a,M,Retail,M48a,38
+11,M47,M,Retail,M47,31
+11,M46,M,Retail,M46,44
+11,M45,M,Retail,M45,25
+11,M44,M,Retail,M44,14
+11,M43,M,Retail,M43,25
+11,M42,M,Retail,M42,23
+11,M41a,M,Retail,M41a,32
+11,M41b,M,Retail,M41b,34
+11,M40,M,Retail,M40,1
+11,M39,M,Retail,M39,0
+11,M38,M,Retail,M38,0
+11,M15a,M,Retail_Kiosk,M15a,1
+11,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,2
+11,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,12
+11,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+11,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,5
+11,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,14
+11,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,0
+11,F-ELEV-01,M,Facility_Elevator,Elevator bank,0
+11,F-ELEV-02,M,Facility_Elevator,Elevator bank,2
+11,F-ESC-01,M,Facility_Escalator,Escalator,6
+11,F-ESC-02,M,Facility_Escalator,Escalator,17
+11,F-ESC-03,M,Facility_Escalator,Escalator,5
+11,F-ESC-04,M,Facility_Escalator,Escalator,0
+11,F-ESC-05,M,Facility_Escalator,Escalator,24
+11,F-ESC-06,M,Facility_Escalator,Escalator,0
+11,F-ESC-07,M,Facility_Escalator,Escalator,0
+11,F-PARK-01,M,Facility_Parking,Parking access,10
+11,F-PARK-02,M,Facility_Parking,Parking access,6
+11,F-PARK-03,M,Facility_Parking,Parking access,4
+11,F-INFO-01,M,Facility_Service,Information desk,4
+11,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,3
+11,E-TRANSIT-01,M,Entrance,Southwest transit entrance,90
+11,E-BUS-01,M,Entrance,South transit / bus access,107
+11,E-TRANSIT-02,M,Entrance,South transit / rail access,101
+11,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,622
+11,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,215
+11,MU-C-WEST-MAIN,MU,Corridor,West main corridor,106
+11,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,442
+11,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,261
+11,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,494
+11,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,1019
+11,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,101
+11,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,41
+11,MU-C-EAST-HUB,MU,Corridor,East central corridor,308
+11,MU-C-EAST-WING,MU,Corridor,East wing corridor,171
+11,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,39
+11,MU34,MU,Retail,MU34,18
+11,MU35,MU,Anchor_Retail,MU35,92
+11,MU36,MU,Retail,MU36,38
+11,MU37,MU,Retail,MU37,19
+11,MU38,MU,Retail,MU38,40
+11,MU39,MU,Retail,MU39,43
+11,MU40,MU,Retail,MU40,10
+11,MU41a,MU,Retail,MU41a,37
+11,MU41b,MU,Retail,MU41b,35
+11,MU42,MU,Anchor_Retail,MU42,31
+11,MU43a,MU,Retail,MU43a,16
+11,MU43b,MU,Retail,MU43b,6
+11,MU44,MU,Retail,MU44,24
+11,MU45,MU,Retail,MU45,28
+11,MU45a,MU,Retail,MU45a,25
+11,MU46,MU,Retail,MU46,25
+11,MU47a,MU,Retail,MU47a,51
+11,MU47b,MU,Retail,MU47b,19
+11,MU48,MU,Retail,MU48,47
+11,MU49,MU,Retail,MU49,5
+11,MU50,MU,Retail,MU50,7
+11,MU51,MU,Retail,MU51,24
+11,MU52,MU,Retail,MU52,8
+11,MU53,MU,Retail,MU53,0
+11,MU54,MU,Retail,MU54,6
+11,MU55,MU,Anchor_Retail,MU55,25
+11,MU32_MU33,MU,Retail_Combined,MU32 & MU33,76
+11,MU31,MU,Retail,MU31,43
+11,MU29_MU30,MU,Retail_Combined,MU29 & MU30,17
+11,MU28,MU,Retail,MU28,24
+11,MU27,MU,Retail,MU27,21
+11,MU26,MU,Retail,MU26,12
+11,MU25,MU,Retail,MU25,23
+11,MU24,MU,Retail,MU24,15
+11,MU22,MU,Retail,MU22,15
+11,MU20,MU,Retail,MU20,36
+11,MU21,MU,Retail,MU21,56
+11,MU19,MU,Retail,MU19,57
+11,MU18,MU,Retail,MU18,68
+11,MU17,MU,Retail_Kiosk,MU17,49
+11,MU16g_h,MU,Retail_Combined,MU16g & MU16h,68
+11,MU16f,MU,Retail,MU16f,47
+11,MU16e,MU,Retail,MU16e,43
+11,MU16d,MU,Retail,MU16d,60
+11,MU16c,MU,Retail,MU16c,60
+11,MU16k,MU,Retail_Kiosk,MU16k,42
+11,MU16i,MU,Retail_Kiosk,MU16i,53
+11,MU16j,MU,Retail_Kiosk,MU16j,43
+11,MU16l,MU,Retail_Kiosk,MU16l,52
+11,MU16b,MU,Retail,MU16b,72
+11,MU16a,MU,Retail_Kiosk,MU16a,57
+11,MU15,MU,Retail,MU15,16
+11,MU14,MU,Retail,MU14,18
+11,MU13,MU,Retail,MU13,25
+11,MU12,MU,Retail,MU12,15
+11,MU11,MU,Retail,MU11,7
+11,MU10,MU,Retail,MU10,22
+11,MU08_MU09,MU,Retail_Combined,MU08 & MU09,43
+11,MU07a,MU,Anchor_Retail,MU07a,8
+11,MU07b,MU,Anchor_Retail,MU07b,19
+11,MU06,MU,Retail,MU06,12
+11,MU05,MU,Retail,MU05,21
+11,MU04,MU,Retail,MU04,35
+11,MU03b,MU,Retail,MU03b,11
+11,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,7
+11,MU02a,MU,Retail,MU02a,2
+11,MU01,MU,Anchor_Retail,MU01,6
+11,MU01b,MU,Retail,MU01b,4
+11,MU01c,MU,Retail,MU01c,4
+11,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,14
+11,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,13
+11,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,17
+11,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,12
+11,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,16
+11,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,21
+11,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,5
+11,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,4
+11,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,2
+11,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,6
+11,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,26
+11,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,8
+11,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,19
+11,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,22
+11,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,82
+11,MU-ENT-WEST,MU,Entrance,West entry / exit,78
+11,MU-ENT-EAST,MU,Entrance,East entry / exit,82
+11,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,88
+11,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,481
+11,L1-C-WEST-MAIN,L1,Corridor,West main corridor,353
+11,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,385
+11,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,911
+11,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,575
+11,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,92
+11,L1-C-EAST-HUB,L1,Corridor,East hub corridor,348
+11,L1-C-EAST-WING,L1,Corridor,East wing corridor,125
+11,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,88
+11,L1-L119,L1,Retail,L119,71
+11,L1-L118,L1,Retail,L118,70
+11,L1-L117,L1,Retail,L117,78
+11,L1-L116,L1,Retail,L116,125
+11,L1-L115,L1,Retail,L115,79
+11,L1-L114,L1,Retail,L114,269
+11,L1-L113,L1,Retail,L113,167
+11,L1-L112,L1,Retail,L112,183
+11,L1-L111,L1,Retail,L111,245
+11,L1-L110,L1,Retail,L110,42
+11,L1-L109,L1,Retail,L109,86
+11,L1-L108,L1,Retail,L108,73
+11,L1-L108A,L1,Retail,L108a,101
+11,L1-L1H-1,L1,Retail,L1H(1),59
+11,L1-L106-L107,L1,Retail_Combined,L106 & L107,62
+11,L1-L105,L1,Retail,L105,36
+11,L1-L104,L1,Retail,L104,72
+11,L1-L103,L1,Retail,L103,68
+11,L1-L102,L1,Retail,L102,41
+11,L1-L101,L1,Retail,L101,184
+11,L1-L120B,L1,Retail,L120b,26
+11,L1-L120,L1,Retail,L120,71
+11,L1-L121,L1,Retail,L121,83
+11,L1-L122,L1,Retail,L122,108
+11,L1-L123,L1,Retail,L123,110
+11,L1-L124,L1,Retail,L124,126
+11,L1-L125,L1,Retail,L125,181
+11,L1-MOH-L101,L1,Hotel_Service,MOH L101,9
+11,L1-MOH-L102,L1,Hotel_Service,MOH L102,19
+11,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",8
+11,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,21
+11,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,23
+11,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,32
+11,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,15
+11,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,9
+11,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,31
+11,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,18
+11,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,10
+11,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,13
+11,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,20
+11,L1-F-INFO-WEST,L1,Facility_Service,Information desk,16
+11,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,16
+11,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,13
+11,L1-ENT-WEST,L1,Entrance,West entrance / exit,95
+11,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,85
+11,L1-ENT-EAST,L1,Entrance,East entrance / exit,108
+11,L1-ENT-SOUTH,L1,Entrance,South transit entrance,120
+11,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+11,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+11,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+11,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+11,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+11,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+11,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+11,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+11,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+11,L2-L227,L2,Retail,L227,0
+11,L2-L226,L2,Retail,L226,0
+11,L2-L225B,L2,Retail,L225b,0
+11,L2-L225A,L2,Retail,L225a,0
+11,L2-L224,L2,Retail,L224,0
+11,L2-L223,L2,Retail,L223,0
+11,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+11,L2-L220,L2,Retail,L220,0
+11,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+11,L2-L217,L2,Retail,L217,0
+11,L2-L216,L2,Retail,L216,0
+11,L2-L215,L2,Retail,L215,0
+11,L2-L214,L2,Retail,L214,0
+11,L2-L213,L2,Retail,L213,0
+11,L2-L211,L2,Retail,L211,0
+11,L2-L210B,L2,Retail,L210b,0
+11,L2-L210A,L2,Retail,L210a,0
+11,L2-L209,L2,Retail,L209,0
+11,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+11,L2-L206,L2,Retail,L206,0
+11,L2-L205,L2,Retail,L205,0
+11,L2-L204,L2,Retail,L204,0
+11,L2-L203,L2,Retail,L203,0
+11,L2-L202,L2,Retail,L202,0
+11,L2-L201,L2,Retail,L201,0
+11,L2-L228,L2,Retail,L228,0
+11,L2-L229A,L2,Retail,L229a,0
+11,L2-L229B,L2,Retail,L229b,0
+11,L2-L230,L2,Retail,L230,0
+11,L2-L231,L2,Retail,L231,0
+11,L2-L232,L2,Retail,L232,0
+11,L2-L233,L2,Retail,L233,0
+11,L2-L234,L2,Retail,L234,0
+11,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+11,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+11,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+11,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+11,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+11,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+11,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+11,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+11,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+11,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+11,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+11,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+11,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+11,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+11,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+11,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+11,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+11,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+11,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+11,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+11,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+11,L3-L302,L3,Retail,L302,0
+11,L3-L303,L3,Retail,L303,0
+11,L3-L304,L3,Retail,L304,0
+11,L3-L305,L3,Retail,L305,0
+11,L3-L306,L3,Retail,L306,0
+11,L3-L307,L3,Retail,L307,0
+11,L3-L308A,L3,Retail,L308a,0
+11,L3-L308B,L3,Retail,L308b,0
+11,L3-L308C,L3,Retail,L308c,0
+11,L3-L308D,L3,Retail,L308d,0
+11,L3-L308E,L3,Retail,L308e,0
+11,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+11,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+11,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+11,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+11,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+11,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+11,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+11,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+11,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+11,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+11,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+11,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+11,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+11,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+11,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+12,C-WEST-LOOP,M,Corridor,West atrium loop corridor,110
+12,C-WEST-VERTICAL,M,Corridor,West vertical corridor,972
+12,C-WEST-MAIN,M,Corridor,West main corridor,745
+12,C-CENTER-WEST,M,Corridor,Center west corridor,867
+12,C-CENTER-NORTH,M,Corridor,Center north corridor,424
+12,C-CENTER-SOUTH,M,Corridor,Center south corridor,1115
+12,C-EAST-HUB,M,Corridor,East hub corridor,332
+12,C-EAST-BRIDGE,M,Corridor,East bridge corridor,7
+12,C-EAST-TERMINAL,M,Corridor,East terminal corridor,0
+12,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1085
+12,M37b,M,Retail,M37b,0
+12,M36,M,Retail,M36,2
+12,M35,M,Retail,M35,5
+12,M34,M,Retail,M34,20
+12,M33,M,Retail,M33,55
+12,M32,M,Retail,M32,23
+12,M31,M,Retail,M31,27
+12,M30,M,Retail,M30,55
+12,M29,M,Retail,M29,55
+12,M28,M,Retail,M28,78
+12,M27,M,Retail,M27,36
+12,M26,M,Retail,M26,88
+12,M25,M,Retail,M25,37
+12,M24,M,Retail,M24,34
+12,M23,M,Retail,M23,4
+12,M22,M,Retail,M22,4
+12,M21,M,Anchor_Retail,M21,64
+12,M20,M,Retail,M20,10
+12,M19,M,Retail,M19,9
+12,M17_M18,M,Retail,M17 & M18,11
+12,M16,M,Retail,M16,7
+12,M15,M,Retail,M15,31
+12,M14,M,Retail,M14,18
+12,M13,M,Retail,M13,14
+12,M12b,M,Retail,M12b,0
+12,M12a,M,Anchor_Retail,M12a,2
+12,M10_M11,M,Retail,M10 & M11,0
+12,M09,M,Retail,M09,15
+12,M08,M,Retail,M08,7
+12,M07,M,Retail,M07,21
+12,M06,M,Retail,M06,13
+12,M05,M,Retail,M05,78
+12,M04,M,Retail,M04,34
+12,M03,M,Retail,M03,65
+12,M02,M,Retail,M02,82
+12,M01,M,Anchor_Retail,M01,117
+12,M68,M,Retail,M68,143
+12,M67,M,Retail,M67,92
+12,M66,M,Retail,M66,86
+12,M65,M,Retail,M65,97
+12,M64,M,Retail,M64,143
+12,M63,M,Retail,M63,65
+12,M62,M,Retail,M62,27
+12,M61,M,Retail,M61,70
+12,M60,M,Retail,M60,48
+12,M59,M,Retail,M59,21
+12,M58,M,Retail,M58,41
+12,M57,M,Retail,M57,68
+12,M56,M,Retail,M56,76
+12,M55,M,Retail,M55,60
+12,M54,M,Retail,M54,11
+12,M53,M,Retail,M53,30
+12,M52,M,Retail,M52,37
+12,M51,M,Retail,M51,63
+12,M50,M,Retail,M50,19
+12,M49,M,Retail,M49,17
+12,M48b,M,Retail,M48b,15
+12,M48a,M,Retail,M48a,51
+12,M47,M,Retail,M47,55
+12,M46,M,Retail,M46,75
+12,M45,M,Retail,M45,55
+12,M44,M,Retail,M44,35
+12,M43,M,Retail,M43,55
+12,M42,M,Retail,M42,32
+12,M41a,M,Retail,M41a,48
+12,M41b,M,Retail,M41b,61
+12,M40,M,Retail,M40,10
+12,M39,M,Retail,M39,2
+12,M38,M,Retail,M38,0
+12,M15a,M,Retail_Kiosk,M15a,7
+12,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,6
+12,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,22
+12,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+12,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,4
+12,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,15
+12,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,0
+12,F-ELEV-01,M,Facility_Elevator,Elevator bank,1
+12,F-ELEV-02,M,Facility_Elevator,Elevator bank,2
+12,F-ESC-01,M,Facility_Escalator,Escalator,18
+12,F-ESC-02,M,Facility_Escalator,Escalator,15
+12,F-ESC-03,M,Facility_Escalator,Escalator,14
+12,F-ESC-04,M,Facility_Escalator,Escalator,7
+12,F-ESC-05,M,Facility_Escalator,Escalator,34
+12,F-ESC-06,M,Facility_Escalator,Escalator,6
+12,F-ESC-07,M,Facility_Escalator,Escalator,0
+12,F-PARK-01,M,Facility_Parking,Parking access,9
+12,F-PARK-02,M,Facility_Parking,Parking access,4
+12,F-PARK-03,M,Facility_Parking,Parking access,2
+12,F-INFO-01,M,Facility_Service,Information desk,7
+12,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,6
+12,E-TRANSIT-01,M,Entrance,Southwest transit entrance,115
+12,E-BUS-01,M,Entrance,South transit / bus access,168
+12,E-TRANSIT-02,M,Entrance,South transit / rail access,158
+12,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,969
+12,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,484
+12,MU-C-WEST-MAIN,MU,Corridor,West main corridor,141
+12,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,734
+12,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,422
+12,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,859
+12,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,2134
+12,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,159
+12,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,58
+12,MU-C-EAST-HUB,MU,Corridor,East central corridor,607
+12,MU-C-EAST-WING,MU,Corridor,East wing corridor,312
+12,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,62
+12,MU34,MU,Retail,MU34,30
+12,MU35,MU,Anchor_Retail,MU35,113
+12,MU36,MU,Retail,MU36,57
+12,MU37,MU,Retail,MU37,48
+12,MU38,MU,Retail,MU38,58
+12,MU39,MU,Retail,MU39,43
+12,MU40,MU,Retail,MU40,25
+12,MU41a,MU,Retail,MU41a,73
+12,MU41b,MU,Retail,MU41b,47
+12,MU42,MU,Anchor_Retail,MU42,81
+12,MU43a,MU,Retail,MU43a,25
+12,MU43b,MU,Retail,MU43b,29
+12,MU44,MU,Retail,MU44,31
+12,MU45,MU,Retail,MU45,26
+12,MU45a,MU,Retail,MU45a,23
+12,MU46,MU,Retail,MU46,42
+12,MU47a,MU,Retail,MU47a,66
+12,MU47b,MU,Retail,MU47b,53
+12,MU48,MU,Retail,MU48,81
+12,MU49,MU,Retail,MU49,10
+12,MU50,MU,Retail,MU50,9
+12,MU51,MU,Retail,MU51,29
+12,MU52,MU,Retail,MU52,20
+12,MU53,MU,Retail,MU53,9
+12,MU54,MU,Retail,MU54,13
+12,MU55,MU,Anchor_Retail,MU55,53
+12,MU32_MU33,MU,Retail_Combined,MU32 & MU33,99
+12,MU31,MU,Retail,MU31,79
+12,MU29_MU30,MU,Retail_Combined,MU29 & MU30,45
+12,MU28,MU,Retail,MU28,55
+12,MU27,MU,Retail,MU27,31
+12,MU26,MU,Retail,MU26,23
+12,MU25,MU,Retail,MU25,35
+12,MU24,MU,Retail,MU24,22
+12,MU22,MU,Retail,MU22,28
+12,MU20,MU,Retail,MU20,126
+12,MU21,MU,Retail,MU21,136
+12,MU19,MU,Retail,MU19,126
+12,MU18,MU,Retail,MU18,122
+12,MU17,MU,Retail_Kiosk,MU17,142
+12,MU16g_h,MU,Retail_Combined,MU16g & MU16h,146
+12,MU16f,MU,Retail,MU16f,146
+12,MU16e,MU,Retail,MU16e,118
+12,MU16d,MU,Retail,MU16d,152
+12,MU16c,MU,Retail,MU16c,126
+12,MU16k,MU,Retail_Kiosk,MU16k,108
+12,MU16i,MU,Retail_Kiosk,MU16i,150
+12,MU16j,MU,Retail_Kiosk,MU16j,115
+12,MU16l,MU,Retail_Kiosk,MU16l,128
+12,MU16b,MU,Retail,MU16b,143
+12,MU16a,MU,Retail_Kiosk,MU16a,111
+12,MU15,MU,Retail,MU15,21
+12,MU14,MU,Retail,MU14,26
+12,MU13,MU,Retail,MU13,26
+12,MU12,MU,Retail,MU12,23
+12,MU11,MU,Retail,MU11,24
+12,MU10,MU,Retail,MU10,45
+12,MU08_MU09,MU,Retail_Combined,MU08 & MU09,64
+12,MU07a,MU,Anchor_Retail,MU07a,8
+12,MU07b,MU,Anchor_Retail,MU07b,15
+12,MU06,MU,Retail,MU06,10
+12,MU05,MU,Retail,MU05,18
+12,MU04,MU,Retail,MU04,50
+12,MU03b,MU,Retail,MU03b,26
+12,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,15
+12,MU02a,MU,Retail,MU02a,19
+12,MU01,MU,Anchor_Retail,MU01,9
+12,MU01b,MU,Retail,MU01b,6
+12,MU01c,MU,Retail,MU01c,1
+12,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,25
+12,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,35
+12,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,19
+12,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,34
+12,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,13
+12,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,13
+12,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,3
+12,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,4
+12,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,0
+12,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,16
+12,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,28
+12,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,26
+12,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,22
+12,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,18
+12,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,143
+12,MU-ENT-WEST,MU,Entrance,West entry / exit,127
+12,MU-ENT-EAST,MU,Entrance,East entry / exit,146
+12,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,163
+12,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,881
+12,L1-C-WEST-MAIN,L1,Corridor,West main corridor,668
+12,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,605
+12,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,1518
+12,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,987
+12,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,153
+12,L1-C-EAST-HUB,L1,Corridor,East hub corridor,603
+12,L1-C-EAST-WING,L1,Corridor,East wing corridor,218
+12,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,111
+12,L1-L119,L1,Retail,L119,121
+12,L1-L118,L1,Retail,L118,125
+12,L1-L117,L1,Retail,L117,142
+12,L1-L116,L1,Retail,L116,248
+12,L1-L115,L1,Retail,L115,180
+12,L1-L114,L1,Retail,L114,422
+12,L1-L113,L1,Retail,L113,270
+12,L1-L112,L1,Retail,L112,290
+12,L1-L111,L1,Retail,L111,381
+12,L1-L110,L1,Retail,L110,101
+12,L1-L109,L1,Retail,L109,192
+12,L1-L108,L1,Retail,L108,139
+12,L1-L108A,L1,Retail,L108a,136
+12,L1-L1H-1,L1,Retail,L1H(1),84
+12,L1-L106-L107,L1,Retail_Combined,L106 & L107,92
+12,L1-L105,L1,Retail,L105,49
+12,L1-L104,L1,Retail,L104,127
+12,L1-L103,L1,Retail,L103,131
+12,L1-L102,L1,Retail,L102,60
+12,L1-L101,L1,Retail,L101,251
+12,L1-L120B,L1,Retail,L120b,49
+12,L1-L120,L1,Retail,L120,133
+12,L1-L121,L1,Retail,L121,189
+12,L1-L122,L1,Retail,L122,184
+12,L1-L123,L1,Retail,L123,181
+12,L1-L124,L1,Retail,L124,156
+12,L1-L125,L1,Retail,L125,305
+12,L1-MOH-L101,L1,Hotel_Service,MOH L101,15
+12,L1-MOH-L102,L1,Hotel_Service,MOH L102,54
+12,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",20
+12,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,29
+12,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,39
+12,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,36
+12,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,26
+12,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,18
+12,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,44
+12,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,30
+12,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,9
+12,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,43
+12,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,28
+12,L1-F-INFO-WEST,L1,Facility_Service,Information desk,31
+12,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,12
+12,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,11
+12,L1-ENT-WEST,L1,Entrance,West entrance / exit,137
+12,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,135
+12,L1-ENT-EAST,L1,Entrance,East entrance / exit,164
+12,L1-ENT-SOUTH,L1,Entrance,South transit entrance,146
+12,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+12,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+12,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+12,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+12,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+12,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+12,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+12,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+12,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+12,L2-L227,L2,Retail,L227,0
+12,L2-L226,L2,Retail,L226,0
+12,L2-L225B,L2,Retail,L225b,0
+12,L2-L225A,L2,Retail,L225a,0
+12,L2-L224,L2,Retail,L224,0
+12,L2-L223,L2,Retail,L223,0
+12,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+12,L2-L220,L2,Retail,L220,0
+12,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+12,L2-L217,L2,Retail,L217,0
+12,L2-L216,L2,Retail,L216,0
+12,L2-L215,L2,Retail,L215,0
+12,L2-L214,L2,Retail,L214,0
+12,L2-L213,L2,Retail,L213,0
+12,L2-L211,L2,Retail,L211,0
+12,L2-L210B,L2,Retail,L210b,0
+12,L2-L210A,L2,Retail,L210a,0
+12,L2-L209,L2,Retail,L209,0
+12,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+12,L2-L206,L2,Retail,L206,0
+12,L2-L205,L2,Retail,L205,0
+12,L2-L204,L2,Retail,L204,0
+12,L2-L203,L2,Retail,L203,0
+12,L2-L202,L2,Retail,L202,0
+12,L2-L201,L2,Retail,L201,0
+12,L2-L228,L2,Retail,L228,0
+12,L2-L229A,L2,Retail,L229a,0
+12,L2-L229B,L2,Retail,L229b,0
+12,L2-L230,L2,Retail,L230,0
+12,L2-L231,L2,Retail,L231,0
+12,L2-L232,L2,Retail,L232,0
+12,L2-L233,L2,Retail,L233,0
+12,L2-L234,L2,Retail,L234,0
+12,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+12,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+12,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+12,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+12,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+12,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+12,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+12,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+12,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+12,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+12,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+12,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+12,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+12,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+12,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+12,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+12,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+12,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+12,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+12,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+12,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+12,L3-L302,L3,Retail,L302,0
+12,L3-L303,L3,Retail,L303,0
+12,L3-L304,L3,Retail,L304,0
+12,L3-L305,L3,Retail,L305,0
+12,L3-L306,L3,Retail,L306,0
+12,L3-L307,L3,Retail,L307,0
+12,L3-L308A,L3,Retail,L308a,0
+12,L3-L308B,L3,Retail,L308b,0
+12,L3-L308C,L3,Retail,L308c,0
+12,L3-L308D,L3,Retail,L308d,0
+12,L3-L308E,L3,Retail,L308e,0
+12,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+12,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+12,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+12,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+12,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+12,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+12,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+12,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+12,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+12,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+12,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+12,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+12,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+12,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+12,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+13,C-WEST-LOOP,M,Corridor,West atrium loop corridor,169
+13,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1255
+13,C-WEST-MAIN,M,Corridor,West main corridor,1054
+13,C-CENTER-WEST,M,Corridor,Center west corridor,1145
+13,C-CENTER-NORTH,M,Corridor,Center north corridor,546
+13,C-CENTER-SOUTH,M,Corridor,Center south corridor,1288
+13,C-EAST-HUB,M,Corridor,East hub corridor,471
+13,C-EAST-BRIDGE,M,Corridor,East bridge corridor,24
+13,C-EAST-TERMINAL,M,Corridor,East terminal corridor,0
+13,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1174
+13,M37b,M,Retail,M37b,7
+13,M36,M,Retail,M36,6
+13,M35,M,Retail,M35,4
+13,M34,M,Retail,M34,16
+13,M33,M,Retail,M33,83
+13,M32,M,Retail,M32,30
+13,M31,M,Retail,M31,35
+13,M30,M,Retail,M30,52
+13,M29,M,Retail,M29,48
+13,M28,M,Retail,M28,130
+13,M27,M,Retail,M27,49
+13,M26,M,Retail,M26,152
+13,M25,M,Retail,M25,37
+13,M24,M,Retail,M24,56
+13,M23,M,Retail,M23,4
+13,M22,M,Retail,M22,3
+13,M21,M,Anchor_Retail,M21,80
+13,M20,M,Retail,M20,25
+13,M19,M,Retail,M19,8
+13,M17_M18,M,Retail,M17 & M18,14
+13,M16,M,Retail,M16,10
+13,M15,M,Retail,M15,32
+13,M14,M,Retail,M14,14
+13,M13,M,Retail,M13,36
+13,M12b,M,Retail,M12b,2
+13,M12a,M,Anchor_Retail,M12a,2
+13,M10_M11,M,Retail,M10 & M11,4
+13,M09,M,Retail,M09,42
+13,M08,M,Retail,M08,13
+13,M07,M,Retail,M07,25
+13,M06,M,Retail,M06,6
+13,M05,M,Retail,M05,103
+13,M04,M,Retail,M04,47
+13,M03,M,Retail,M03,90
+13,M02,M,Retail,M02,80
+13,M01,M,Anchor_Retail,M01,128
+13,M68,M,Retail,M68,122
+13,M67,M,Retail,M67,95
+13,M66,M,Retail,M66,104
+13,M65,M,Retail,M65,119
+13,M64,M,Retail,M64,191
+13,M63,M,Retail,M63,79
+13,M62,M,Retail,M62,41
+13,M61,M,Retail,M61,76
+13,M60,M,Retail,M60,59
+13,M59,M,Retail,M59,26
+13,M58,M,Retail,M58,56
+13,M57,M,Retail,M57,64
+13,M56,M,Retail,M56,65
+13,M55,M,Retail,M55,87
+13,M54,M,Retail,M54,23
+13,M53,M,Retail,M53,32
+13,M52,M,Retail,M52,37
+13,M51,M,Retail,M51,65
+13,M50,M,Retail,M50,32
+13,M49,M,Retail,M49,24
+13,M48b,M,Retail,M48b,22
+13,M48a,M,Retail,M48a,83
+13,M47,M,Retail,M47,74
+13,M46,M,Retail,M46,79
+13,M45,M,Retail,M45,64
+13,M44,M,Retail,M44,29
+13,M43,M,Retail,M43,71
+13,M42,M,Retail,M42,40
+13,M41a,M,Retail,M41a,95
+13,M41b,M,Retail,M41b,92
+13,M40,M,Retail,M40,5
+13,M39,M,Retail,M39,0
+13,M38,M,Retail,M38,0
+13,M15a,M,Retail_Kiosk,M15a,12
+13,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,7
+13,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,34
+13,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+13,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,9
+13,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,22
+13,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,2
+13,F-ELEV-01,M,Facility_Elevator,Elevator bank,19
+13,F-ELEV-02,M,Facility_Elevator,Elevator bank,10
+13,F-ESC-01,M,Facility_Escalator,Escalator,26
+13,F-ESC-02,M,Facility_Escalator,Escalator,32
+13,F-ESC-03,M,Facility_Escalator,Escalator,15
+13,F-ESC-04,M,Facility_Escalator,Escalator,8
+13,F-ESC-05,M,Facility_Escalator,Escalator,39
+13,F-ESC-06,M,Facility_Escalator,Escalator,5
+13,F-ESC-07,M,Facility_Escalator,Escalator,0
+13,F-PARK-01,M,Facility_Parking,Parking access,12
+13,F-PARK-02,M,Facility_Parking,Parking access,9
+13,F-PARK-03,M,Facility_Parking,Parking access,10
+13,F-INFO-01,M,Facility_Service,Information desk,10
+13,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,34
+13,E-TRANSIT-01,M,Entrance,Southwest transit entrance,115
+13,E-BUS-01,M,Entrance,South transit / bus access,168
+13,E-TRANSIT-02,M,Entrance,South transit / rail access,130
+13,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1110
+13,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,477
+13,MU-C-WEST-MAIN,MU,Corridor,West main corridor,200
+13,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,789
+13,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,471
+13,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1128
+13,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,2911
+13,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,200
+13,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,76
+13,MU-C-EAST-HUB,MU,Corridor,East central corridor,642
+13,MU-C-EAST-WING,MU,Corridor,East wing corridor,225
+13,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,93
+13,MU34,MU,Retail,MU34,32
+13,MU35,MU,Anchor_Retail,MU35,155
+13,MU36,MU,Retail,MU36,62
+13,MU37,MU,Retail,MU37,55
+13,MU38,MU,Retail,MU38,74
+13,MU39,MU,Retail,MU39,66
+13,MU40,MU,Retail,MU40,36
+13,MU41a,MU,Retail,MU41a,93
+13,MU41b,MU,Retail,MU41b,60
+13,MU42,MU,Anchor_Retail,MU42,104
+13,MU43a,MU,Retail,MU43a,30
+13,MU43b,MU,Retail,MU43b,17
+13,MU44,MU,Retail,MU44,27
+13,MU45,MU,Retail,MU45,44
+13,MU45a,MU,Retail,MU45a,44
+13,MU46,MU,Retail,MU46,71
+13,MU47a,MU,Retail,MU47a,93
+13,MU47b,MU,Retail,MU47b,46
+13,MU48,MU,Retail,MU48,94
+13,MU49,MU,Retail,MU49,20
+13,MU50,MU,Retail,MU50,14
+13,MU51,MU,Retail,MU51,41
+13,MU52,MU,Retail,MU52,19
+13,MU53,MU,Retail,MU53,20
+13,MU54,MU,Retail,MU54,12
+13,MU55,MU,Anchor_Retail,MU55,43
+13,MU32_MU33,MU,Retail_Combined,MU32 & MU33,102
+13,MU31,MU,Retail,MU31,94
+13,MU29_MU30,MU,Retail_Combined,MU29 & MU30,71
+13,MU28,MU,Retail,MU28,70
+13,MU27,MU,Retail,MU27,39
+13,MU26,MU,Retail,MU26,32
+13,MU25,MU,Retail,MU25,39
+13,MU24,MU,Retail,MU24,21
+13,MU22,MU,Retail,MU22,34
+13,MU20,MU,Retail,MU20,193
+13,MU21,MU,Retail,MU21,245
+13,MU19,MU,Retail,MU19,197
+13,MU18,MU,Retail,MU18,201
+13,MU17,MU,Retail_Kiosk,MU17,207
+13,MU16g_h,MU,Retail_Combined,MU16g & MU16h,246
+13,MU16f,MU,Retail,MU16f,206
+13,MU16e,MU,Retail,MU16e,182
+13,MU16d,MU,Retail,MU16d,216
+13,MU16c,MU,Retail,MU16c,167
+13,MU16k,MU,Retail_Kiosk,MU16k,179
+13,MU16i,MU,Retail_Kiosk,MU16i,234
+13,MU16j,MU,Retail_Kiosk,MU16j,207
+13,MU16l,MU,Retail_Kiosk,MU16l,209
+13,MU16b,MU,Retail,MU16b,223
+13,MU16a,MU,Retail_Kiosk,MU16a,168
+13,MU15,MU,Retail,MU15,43
+13,MU14,MU,Retail,MU14,44
+13,MU13,MU,Retail,MU13,41
+13,MU12,MU,Retail,MU12,31
+13,MU11,MU,Retail,MU11,15
+13,MU10,MU,Retail,MU10,45
+13,MU08_MU09,MU,Retail_Combined,MU08 & MU09,75
+13,MU07a,MU,Anchor_Retail,MU07a,11
+13,MU07b,MU,Anchor_Retail,MU07b,21
+13,MU06,MU,Retail,MU06,21
+13,MU05,MU,Retail,MU05,35
+13,MU04,MU,Retail,MU04,49
+13,MU03b,MU,Retail,MU03b,31
+13,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,22
+13,MU02a,MU,Retail,MU02a,25
+13,MU01,MU,Anchor_Retail,MU01,27
+13,MU01b,MU,Retail,MU01b,6
+13,MU01c,MU,Retail,MU01c,11
+13,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,21
+13,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,32
+13,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,21
+13,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,25
+13,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,9
+13,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,47
+13,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,7
+13,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,2
+13,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,11
+13,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,8
+13,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,18
+13,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,24
+13,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,52
+13,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,31
+13,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,130
+13,MU-ENT-WEST,MU,Entrance,West entry / exit,131
+13,MU-ENT-EAST,MU,Entrance,East entry / exit,107
+13,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,140
+13,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1083
+13,L1-C-WEST-MAIN,L1,Corridor,West main corridor,873
+13,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,760
+13,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,1863
+13,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1162
+13,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,183
+13,L1-C-EAST-HUB,L1,Corridor,East hub corridor,669
+13,L1-C-EAST-WING,L1,Corridor,East wing corridor,194
+13,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,192
+13,L1-L119,L1,Retail,L119,148
+13,L1-L118,L1,Retail,L118,138
+13,L1-L117,L1,Retail,L117,158
+13,L1-L116,L1,Retail,L116,324
+13,L1-L115,L1,Retail,L115,212
+13,L1-L114,L1,Retail,L114,533
+13,L1-L113,L1,Retail,L113,348
+13,L1-L112,L1,Retail,L112,357
+13,L1-L111,L1,Retail,L111,464
+13,L1-L110,L1,Retail,L110,108
+13,L1-L109,L1,Retail,L109,221
+13,L1-L108,L1,Retail,L108,196
+13,L1-L108A,L1,Retail,L108a,168
+13,L1-L1H-1,L1,Retail,L1H(1),85
+13,L1-L106-L107,L1,Retail_Combined,L106 & L107,163
+13,L1-L105,L1,Retail,L105,102
+13,L1-L104,L1,Retail,L104,165
+13,L1-L103,L1,Retail,L103,192
+13,L1-L102,L1,Retail,L102,114
+13,L1-L101,L1,Retail,L101,367
+13,L1-L120B,L1,Retail,L120b,76
+13,L1-L120,L1,Retail,L120,200
+13,L1-L121,L1,Retail,L121,219
+13,L1-L122,L1,Retail,L122,237
+13,L1-L123,L1,Retail,L123,231
+13,L1-L124,L1,Retail,L124,173
+13,L1-L125,L1,Retail,L125,360
+13,L1-MOH-L101,L1,Hotel_Service,MOH L101,16
+13,L1-MOH-L102,L1,Hotel_Service,MOH L102,52
+13,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",7
+13,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,32
+13,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,37
+13,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,52
+13,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,37
+13,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,44
+13,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,57
+13,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,47
+13,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,16
+13,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,47
+13,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,44
+13,L1-F-INFO-WEST,L1,Facility_Service,Information desk,45
+13,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,19
+13,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,16
+13,L1-ENT-WEST,L1,Entrance,West entrance / exit,135
+13,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,143
+13,L1-ENT-EAST,L1,Entrance,East entrance / exit,148
+13,L1-ENT-SOUTH,L1,Entrance,South transit entrance,177
+13,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+13,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+13,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+13,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+13,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+13,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+13,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+13,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+13,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+13,L2-L227,L2,Retail,L227,0
+13,L2-L226,L2,Retail,L226,0
+13,L2-L225B,L2,Retail,L225b,0
+13,L2-L225A,L2,Retail,L225a,0
+13,L2-L224,L2,Retail,L224,0
+13,L2-L223,L2,Retail,L223,0
+13,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+13,L2-L220,L2,Retail,L220,0
+13,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+13,L2-L217,L2,Retail,L217,0
+13,L2-L216,L2,Retail,L216,0
+13,L2-L215,L2,Retail,L215,0
+13,L2-L214,L2,Retail,L214,0
+13,L2-L213,L2,Retail,L213,0
+13,L2-L211,L2,Retail,L211,0
+13,L2-L210B,L2,Retail,L210b,0
+13,L2-L210A,L2,Retail,L210a,0
+13,L2-L209,L2,Retail,L209,0
+13,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+13,L2-L206,L2,Retail,L206,0
+13,L2-L205,L2,Retail,L205,0
+13,L2-L204,L2,Retail,L204,0
+13,L2-L203,L2,Retail,L203,0
+13,L2-L202,L2,Retail,L202,0
+13,L2-L201,L2,Retail,L201,0
+13,L2-L228,L2,Retail,L228,0
+13,L2-L229A,L2,Retail,L229a,0
+13,L2-L229B,L2,Retail,L229b,0
+13,L2-L230,L2,Retail,L230,0
+13,L2-L231,L2,Retail,L231,0
+13,L2-L232,L2,Retail,L232,0
+13,L2-L233,L2,Retail,L233,0
+13,L2-L234,L2,Retail,L234,0
+13,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+13,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+13,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+13,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+13,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+13,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+13,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+13,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+13,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+13,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+13,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+13,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+13,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+13,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+13,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+13,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+13,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+13,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+13,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+13,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+13,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+13,L3-L302,L3,Retail,L302,0
+13,L3-L303,L3,Retail,L303,0
+13,L3-L304,L3,Retail,L304,0
+13,L3-L305,L3,Retail,L305,0
+13,L3-L306,L3,Retail,L306,0
+13,L3-L307,L3,Retail,L307,0
+13,L3-L308A,L3,Retail,L308a,0
+13,L3-L308B,L3,Retail,L308b,0
+13,L3-L308C,L3,Retail,L308c,0
+13,L3-L308D,L3,Retail,L308d,0
+13,L3-L308E,L3,Retail,L308e,0
+13,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+13,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+13,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+13,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+13,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+13,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+13,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+13,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+13,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+13,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+13,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+13,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+13,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+13,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+13,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+14,C-WEST-LOOP,M,Corridor,West atrium loop corridor,126
+14,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1134
+14,C-WEST-MAIN,M,Corridor,West main corridor,1030
+14,C-CENTER-WEST,M,Corridor,Center west corridor,1121
+14,C-CENTER-NORTH,M,Corridor,Center north corridor,628
+14,C-CENTER-SOUTH,M,Corridor,Center south corridor,1166
+14,C-EAST-HUB,M,Corridor,East hub corridor,475
+14,C-EAST-BRIDGE,M,Corridor,East bridge corridor,30
+14,C-EAST-TERMINAL,M,Corridor,East terminal corridor,2
+14,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1022
+14,M37b,M,Retail,M37b,3
+14,M36,M,Retail,M36,2
+14,M35,M,Retail,M35,4
+14,M34,M,Retail,M34,18
+14,M33,M,Retail,M33,76
+14,M32,M,Retail,M32,16
+14,M31,M,Retail,M31,26
+14,M30,M,Retail,M30,53
+14,M29,M,Retail,M29,72
+14,M28,M,Retail,M28,123
+14,M27,M,Retail,M27,47
+14,M26,M,Retail,M26,137
+14,M25,M,Retail,M25,49
+14,M24,M,Retail,M24,57
+14,M23,M,Retail,M23,9
+14,M22,M,Retail,M22,11
+14,M21,M,Anchor_Retail,M21,81
+14,M20,M,Retail,M20,13
+14,M19,M,Retail,M19,9
+14,M17_M18,M,Retail,M17 & M18,35
+14,M16,M,Retail,M16,17
+14,M15,M,Retail,M15,34
+14,M14,M,Retail,M14,22
+14,M13,M,Retail,M13,39
+14,M12b,M,Retail,M12b,12
+14,M12a,M,Anchor_Retail,M12a,3
+14,M10_M11,M,Retail,M10 & M11,2
+14,M09,M,Retail,M09,32
+14,M08,M,Retail,M08,22
+14,M07,M,Retail,M07,33
+14,M06,M,Retail,M06,32
+14,M05,M,Retail,M05,123
+14,M04,M,Retail,M04,32
+14,M03,M,Retail,M03,82
+14,M02,M,Retail,M02,86
+14,M01,M,Anchor_Retail,M01,123
+14,M68,M,Retail,M68,122
+14,M67,M,Retail,M67,99
+14,M66,M,Retail,M66,84
+14,M65,M,Retail,M65,129
+14,M64,M,Retail,M64,164
+14,M63,M,Retail,M63,67
+14,M62,M,Retail,M62,60
+14,M61,M,Retail,M61,70
+14,M60,M,Retail,M60,71
+14,M59,M,Retail,M59,28
+14,M58,M,Retail,M58,69
+14,M57,M,Retail,M57,74
+14,M56,M,Retail,M56,80
+14,M55,M,Retail,M55,57
+14,M54,M,Retail,M54,19
+14,M53,M,Retail,M53,48
+14,M52,M,Retail,M52,60
+14,M51,M,Retail,M51,65
+14,M50,M,Retail,M50,16
+14,M49,M,Retail,M49,18
+14,M48b,M,Retail,M48b,15
+14,M48a,M,Retail,M48a,66
+14,M47,M,Retail,M47,84
+14,M46,M,Retail,M46,92
+14,M45,M,Retail,M45,72
+14,M44,M,Retail,M44,32
+14,M43,M,Retail,M43,65
+14,M42,M,Retail,M42,33
+14,M41a,M,Retail,M41a,81
+14,M41b,M,Retail,M41b,84
+14,M40,M,Retail,M40,10
+14,M39,M,Retail,M39,0
+14,M38,M,Retail,M38,0
+14,M15a,M,Retail_Kiosk,M15a,11
+14,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,5
+14,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,36
+14,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+14,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,10
+14,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,30
+14,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,0
+14,F-ELEV-01,M,Facility_Elevator,Elevator bank,6
+14,F-ELEV-02,M,Facility_Elevator,Elevator bank,11
+14,F-ESC-01,M,Facility_Escalator,Escalator,35
+14,F-ESC-02,M,Facility_Escalator,Escalator,13
+14,F-ESC-03,M,Facility_Escalator,Escalator,32
+14,F-ESC-04,M,Facility_Escalator,Escalator,5
+14,F-ESC-05,M,Facility_Escalator,Escalator,71
+14,F-ESC-06,M,Facility_Escalator,Escalator,7
+14,F-ESC-07,M,Facility_Escalator,Escalator,0
+14,F-PARK-01,M,Facility_Parking,Parking access,24
+14,F-PARK-02,M,Facility_Parking,Parking access,6
+14,F-PARK-03,M,Facility_Parking,Parking access,4
+14,F-INFO-01,M,Facility_Service,Information desk,13
+14,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,16
+14,E-TRANSIT-01,M,Entrance,Southwest transit entrance,97
+14,E-BUS-01,M,Entrance,South transit / bus access,135
+14,E-TRANSIT-02,M,Entrance,South transit / rail access,132
+14,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1244
+14,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,416
+14,MU-C-WEST-MAIN,MU,Corridor,West main corridor,287
+14,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,762
+14,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,486
+14,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1142
+14,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,2406
+14,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,275
+14,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,137
+14,MU-C-EAST-HUB,MU,Corridor,East central corridor,800
+14,MU-C-EAST-WING,MU,Corridor,East wing corridor,254
+14,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,169
+14,MU34,MU,Retail,MU34,54
+14,MU35,MU,Anchor_Retail,MU35,178
+14,MU36,MU,Retail,MU36,78
+14,MU37,MU,Retail,MU37,67
+14,MU38,MU,Retail,MU38,93
+14,MU39,MU,Retail,MU39,109
+14,MU40,MU,Retail,MU40,43
+14,MU41a,MU,Retail,MU41a,73
+14,MU41b,MU,Retail,MU41b,41
+14,MU42,MU,Anchor_Retail,MU42,56
+14,MU43a,MU,Retail,MU43a,20
+14,MU43b,MU,Retail,MU43b,18
+14,MU44,MU,Retail,MU44,61
+14,MU45,MU,Retail,MU45,50
+14,MU45a,MU,Retail,MU45a,42
+14,MU46,MU,Retail,MU46,57
+14,MU47a,MU,Retail,MU47a,106
+14,MU47b,MU,Retail,MU47b,80
+14,MU48,MU,Retail,MU48,111
+14,MU49,MU,Retail,MU49,14
+14,MU50,MU,Retail,MU50,16
+14,MU51,MU,Retail,MU51,43
+14,MU52,MU,Retail,MU52,29
+14,MU53,MU,Retail,MU53,17
+14,MU54,MU,Retail,MU54,14
+14,MU55,MU,Anchor_Retail,MU55,71
+14,MU32_MU33,MU,Retail_Combined,MU32 & MU33,144
+14,MU31,MU,Retail,MU31,110
+14,MU29_MU30,MU,Retail_Combined,MU29 & MU30,69
+14,MU28,MU,Retail,MU28,83
+14,MU27,MU,Retail,MU27,63
+14,MU26,MU,Retail,MU26,31
+14,MU25,MU,Retail,MU25,55
+14,MU24,MU,Retail,MU24,31
+14,MU22,MU,Retail,MU22,39
+14,MU20,MU,Retail,MU20,123
+14,MU21,MU,Retail,MU21,180
+14,MU19,MU,Retail,MU19,113
+14,MU18,MU,Retail,MU18,134
+14,MU17,MU,Retail_Kiosk,MU17,120
+14,MU16g_h,MU,Retail_Combined,MU16g & MU16h,149
+14,MU16f,MU,Retail,MU16f,146
+14,MU16e,MU,Retail,MU16e,143
+14,MU16d,MU,Retail,MU16d,144
+14,MU16c,MU,Retail,MU16c,122
+14,MU16k,MU,Retail_Kiosk,MU16k,123
+14,MU16i,MU,Retail_Kiosk,MU16i,163
+14,MU16j,MU,Retail_Kiosk,MU16j,116
+14,MU16l,MU,Retail_Kiosk,MU16l,143
+14,MU16b,MU,Retail,MU16b,150
+14,MU16a,MU,Retail_Kiosk,MU16a,132
+14,MU15,MU,Retail,MU15,71
+14,MU14,MU,Retail,MU14,94
+14,MU13,MU,Retail,MU13,99
+14,MU12,MU,Retail,MU12,51
+14,MU11,MU,Retail,MU11,16
+14,MU10,MU,Retail,MU10,60
+14,MU08_MU09,MU,Retail_Combined,MU08 & MU09,106
+14,MU07a,MU,Anchor_Retail,MU07a,26
+14,MU07b,MU,Anchor_Retail,MU07b,35
+14,MU06,MU,Retail,MU06,42
+14,MU05,MU,Retail,MU05,69
+14,MU04,MU,Retail,MU04,98
+14,MU03b,MU,Retail,MU03b,61
+14,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,43
+14,MU02a,MU,Retail,MU02a,33
+14,MU01,MU,Anchor_Retail,MU01,27
+14,MU01b,MU,Retail,MU01b,3
+14,MU01c,MU,Retail,MU01c,8
+14,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,13
+14,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,34
+14,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,26
+14,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,34
+14,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,26
+14,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,26
+14,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,6
+14,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,7
+14,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,9
+14,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,14
+14,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,23
+14,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,25
+14,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,31
+14,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,47
+14,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,119
+14,MU-ENT-WEST,MU,Entrance,West entry / exit,103
+14,MU-ENT-EAST,MU,Entrance,East entry / exit,111
+14,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,127
+14,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1018
+14,L1-C-WEST-MAIN,L1,Corridor,West main corridor,882
+14,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,815
+14,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,1977
+14,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1132
+14,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,158
+14,L1-C-EAST-HUB,L1,Corridor,East hub corridor,536
+14,L1-C-EAST-WING,L1,Corridor,East wing corridor,110
+14,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,161
+14,L1-L119,L1,Retail,L119,137
+14,L1-L118,L1,Retail,L118,177
+14,L1-L117,L1,Retail,L117,159
+14,L1-L116,L1,Retail,L116,325
+14,L1-L115,L1,Retail,L115,215
+14,L1-L114,L1,Retail,L114,556
+14,L1-L113,L1,Retail,L113,363
+14,L1-L112,L1,Retail,L112,410
+14,L1-L111,L1,Retail,L111,471
+14,L1-L110,L1,Retail,L110,112
+14,L1-L109,L1,Retail,L109,192
+14,L1-L108,L1,Retail,L108,137
+14,L1-L108A,L1,Retail,L108a,139
+14,L1-L1H-1,L1,Retail,L1H(1),61
+14,L1-L106-L107,L1,Retail_Combined,L106 & L107,124
+14,L1-L105,L1,Retail,L105,90
+14,L1-L104,L1,Retail,L104,140
+14,L1-L103,L1,Retail,L103,158
+14,L1-L102,L1,Retail,L102,87
+14,L1-L101,L1,Retail,L101,312
+14,L1-L120B,L1,Retail,L120b,68
+14,L1-L120,L1,Retail,L120,181
+14,L1-L121,L1,Retail,L121,198
+14,L1-L122,L1,Retail,L122,194
+14,L1-L123,L1,Retail,L123,221
+14,L1-L124,L1,Retail,L124,176
+14,L1-L125,L1,Retail,L125,359
+14,L1-MOH-L101,L1,Hotel_Service,MOH L101,7
+14,L1-MOH-L102,L1,Hotel_Service,MOH L102,53
+14,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",9
+14,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,27
+14,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,60
+14,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,63
+14,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,55
+14,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,34
+14,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,50
+14,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,47
+14,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,18
+14,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,62
+14,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,66
+14,L1-F-INFO-WEST,L1,Facility_Service,Information desk,50
+14,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,10
+14,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,34
+14,L1-ENT-WEST,L1,Entrance,West entrance / exit,139
+14,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,131
+14,L1-ENT-EAST,L1,Entrance,East entrance / exit,85
+14,L1-ENT-SOUTH,L1,Entrance,South transit entrance,180
+14,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+14,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+14,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+14,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+14,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+14,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+14,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+14,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+14,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+14,L2-L227,L2,Retail,L227,0
+14,L2-L226,L2,Retail,L226,0
+14,L2-L225B,L2,Retail,L225b,0
+14,L2-L225A,L2,Retail,L225a,0
+14,L2-L224,L2,Retail,L224,0
+14,L2-L223,L2,Retail,L223,0
+14,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+14,L2-L220,L2,Retail,L220,0
+14,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+14,L2-L217,L2,Retail,L217,0
+14,L2-L216,L2,Retail,L216,0
+14,L2-L215,L2,Retail,L215,0
+14,L2-L214,L2,Retail,L214,0
+14,L2-L213,L2,Retail,L213,0
+14,L2-L211,L2,Retail,L211,0
+14,L2-L210B,L2,Retail,L210b,0
+14,L2-L210A,L2,Retail,L210a,0
+14,L2-L209,L2,Retail,L209,0
+14,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+14,L2-L206,L2,Retail,L206,0
+14,L2-L205,L2,Retail,L205,0
+14,L2-L204,L2,Retail,L204,0
+14,L2-L203,L2,Retail,L203,0
+14,L2-L202,L2,Retail,L202,0
+14,L2-L201,L2,Retail,L201,0
+14,L2-L228,L2,Retail,L228,0
+14,L2-L229A,L2,Retail,L229a,0
+14,L2-L229B,L2,Retail,L229b,0
+14,L2-L230,L2,Retail,L230,0
+14,L2-L231,L2,Retail,L231,0
+14,L2-L232,L2,Retail,L232,0
+14,L2-L233,L2,Retail,L233,0
+14,L2-L234,L2,Retail,L234,0
+14,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+14,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+14,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+14,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+14,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+14,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+14,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+14,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+14,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+14,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+14,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+14,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+14,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+14,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+14,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+14,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+14,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+14,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+14,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+14,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+14,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+14,L3-L302,L3,Retail,L302,0
+14,L3-L303,L3,Retail,L303,0
+14,L3-L304,L3,Retail,L304,0
+14,L3-L305,L3,Retail,L305,0
+14,L3-L306,L3,Retail,L306,0
+14,L3-L307,L3,Retail,L307,0
+14,L3-L308A,L3,Retail,L308a,0
+14,L3-L308B,L3,Retail,L308b,0
+14,L3-L308C,L3,Retail,L308c,0
+14,L3-L308D,L3,Retail,L308d,0
+14,L3-L308E,L3,Retail,L308e,0
+14,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+14,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+14,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+14,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+14,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+14,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+14,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+14,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+14,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+14,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+14,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+14,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+14,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+14,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+14,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+15,C-WEST-LOOP,M,Corridor,West atrium loop corridor,131
+15,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1072
+15,C-WEST-MAIN,M,Corridor,West main corridor,1019
+15,C-CENTER-WEST,M,Corridor,Center west corridor,1109
+15,C-CENTER-NORTH,M,Corridor,Center north corridor,470
+15,C-CENTER-SOUTH,M,Corridor,Center south corridor,1103
+15,C-EAST-HUB,M,Corridor,East hub corridor,424
+15,C-EAST-BRIDGE,M,Corridor,East bridge corridor,28
+15,C-EAST-TERMINAL,M,Corridor,East terminal corridor,4
+15,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1078
+15,M37b,M,Retail,M37b,2
+15,M36,M,Retail,M36,2
+15,M35,M,Retail,M35,6
+15,M34,M,Retail,M34,22
+15,M33,M,Retail,M33,76
+15,M32,M,Retail,M32,28
+15,M31,M,Retail,M31,47
+15,M30,M,Retail,M30,64
+15,M29,M,Retail,M29,93
+15,M28,M,Retail,M28,117
+15,M27,M,Retail,M27,62
+15,M26,M,Retail,M26,114
+15,M25,M,Retail,M25,30
+15,M24,M,Retail,M24,57
+15,M23,M,Retail,M23,15
+15,M22,M,Retail,M22,3
+15,M21,M,Anchor_Retail,M21,62
+15,M20,M,Retail,M20,18
+15,M19,M,Retail,M19,10
+15,M17_M18,M,Retail,M17 & M18,20
+15,M16,M,Retail,M16,20
+15,M15,M,Retail,M15,33
+15,M14,M,Retail,M14,25
+15,M13,M,Retail,M13,41
+15,M12b,M,Retail,M12b,5
+15,M12a,M,Anchor_Retail,M12a,12
+15,M10_M11,M,Retail,M10 & M11,8
+15,M09,M,Retail,M09,39
+15,M08,M,Retail,M08,25
+15,M07,M,Retail,M07,30
+15,M06,M,Retail,M06,37
+15,M05,M,Retail,M05,101
+15,M04,M,Retail,M04,52
+15,M03,M,Retail,M03,79
+15,M02,M,Retail,M02,85
+15,M01,M,Anchor_Retail,M01,143
+15,M68,M,Retail,M68,179
+15,M67,M,Retail,M67,98
+15,M66,M,Retail,M66,68
+15,M65,M,Retail,M65,117
+15,M64,M,Retail,M64,182
+15,M63,M,Retail,M63,92
+15,M62,M,Retail,M62,54
+15,M61,M,Retail,M61,77
+15,M60,M,Retail,M60,56
+15,M59,M,Retail,M59,25
+15,M58,M,Retail,M58,72
+15,M57,M,Retail,M57,92
+15,M56,M,Retail,M56,77
+15,M55,M,Retail,M55,61
+15,M54,M,Retail,M54,18
+15,M53,M,Retail,M53,65
+15,M52,M,Retail,M52,46
+15,M51,M,Retail,M51,79
+15,M50,M,Retail,M50,39
+15,M49,M,Retail,M49,41
+15,M48b,M,Retail,M48b,21
+15,M48a,M,Retail,M48a,62
+15,M47,M,Retail,M47,69
+15,M46,M,Retail,M46,73
+15,M45,M,Retail,M45,68
+15,M44,M,Retail,M44,39
+15,M43,M,Retail,M43,64
+15,M42,M,Retail,M42,22
+15,M41a,M,Retail,M41a,65
+15,M41b,M,Retail,M41b,62
+15,M40,M,Retail,M40,5
+15,M39,M,Retail,M39,2
+15,M38,M,Retail,M38,0
+15,M15a,M,Retail_Kiosk,M15a,11
+15,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,2
+15,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,40
+15,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+15,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,8
+15,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,32
+15,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,2
+15,F-ELEV-01,M,Facility_Elevator,Elevator bank,6
+15,F-ELEV-02,M,Facility_Elevator,Elevator bank,3
+15,F-ESC-01,M,Facility_Escalator,Escalator,16
+15,F-ESC-02,M,Facility_Escalator,Escalator,37
+15,F-ESC-03,M,Facility_Escalator,Escalator,16
+15,F-ESC-04,M,Facility_Escalator,Escalator,4
+15,F-ESC-05,M,Facility_Escalator,Escalator,47
+15,F-ESC-06,M,Facility_Escalator,Escalator,6
+15,F-ESC-07,M,Facility_Escalator,Escalator,2
+15,F-PARK-01,M,Facility_Parking,Parking access,28
+15,F-PARK-02,M,Facility_Parking,Parking access,12
+15,F-PARK-03,M,Facility_Parking,Parking access,7
+15,F-INFO-01,M,Facility_Service,Information desk,21
+15,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,22
+15,E-TRANSIT-01,M,Entrance,Southwest transit entrance,119
+15,E-BUS-01,M,Entrance,South transit / bus access,136
+15,E-TRANSIT-02,M,Entrance,South transit / rail access,121
+15,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1401
+15,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,474
+15,MU-C-WEST-MAIN,MU,Corridor,West main corridor,240
+15,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,788
+15,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,475
+15,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1050
+15,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,1906
+15,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,283
+15,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,197
+15,MU-C-EAST-HUB,MU,Corridor,East central corridor,828
+15,MU-C-EAST-WING,MU,Corridor,East wing corridor,258
+15,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,194
+15,MU34,MU,Retail,MU34,42
+15,MU35,MU,Anchor_Retail,MU35,155
+15,MU36,MU,Retail,MU36,81
+15,MU37,MU,Retail,MU37,105
+15,MU38,MU,Retail,MU38,126
+15,MU39,MU,Retail,MU39,123
+15,MU40,MU,Retail,MU40,46
+15,MU41a,MU,Retail,MU41a,56
+15,MU41b,MU,Retail,MU41b,55
+15,MU42,MU,Anchor_Retail,MU42,55
+15,MU43a,MU,Retail,MU43a,25
+15,MU43b,MU,Retail,MU43b,20
+15,MU44,MU,Retail,MU44,51
+15,MU45,MU,Retail,MU45,55
+15,MU45a,MU,Retail,MU45a,57
+15,MU46,MU,Retail,MU46,92
+15,MU47a,MU,Retail,MU47a,114
+15,MU47b,MU,Retail,MU47b,60
+15,MU48,MU,Retail,MU48,111
+15,MU49,MU,Retail,MU49,19
+15,MU50,MU,Retail,MU50,16
+15,MU51,MU,Retail,MU51,56
+15,MU52,MU,Retail,MU52,27
+15,MU53,MU,Retail,MU53,15
+15,MU54,MU,Retail,MU54,24
+15,MU55,MU,Anchor_Retail,MU55,75
+15,MU32_MU33,MU,Retail_Combined,MU32 & MU33,169
+15,MU31,MU,Retail,MU31,121
+15,MU29_MU30,MU,Retail_Combined,MU29 & MU30,70
+15,MU28,MU,Retail,MU28,91
+15,MU27,MU,Retail,MU27,59
+15,MU26,MU,Retail,MU26,27
+15,MU25,MU,Retail,MU25,77
+15,MU24,MU,Retail,MU24,42
+15,MU22,MU,Retail,MU22,46
+15,MU20,MU,Retail,MU20,109
+15,MU21,MU,Retail,MU21,152
+15,MU19,MU,Retail,MU19,98
+15,MU18,MU,Retail,MU18,98
+15,MU17,MU,Retail_Kiosk,MU17,111
+15,MU16g_h,MU,Retail_Combined,MU16g & MU16h,113
+15,MU16f,MU,Retail,MU16f,108
+15,MU16e,MU,Retail,MU16e,67
+15,MU16d,MU,Retail,MU16d,76
+15,MU16c,MU,Retail,MU16c,99
+15,MU16k,MU,Retail_Kiosk,MU16k,69
+15,MU16i,MU,Retail_Kiosk,MU16i,113
+15,MU16j,MU,Retail_Kiosk,MU16j,109
+15,MU16l,MU,Retail_Kiosk,MU16l,78
+15,MU16b,MU,Retail,MU16b,96
+15,MU16a,MU,Retail_Kiosk,MU16a,103
+15,MU15,MU,Retail,MU15,65
+15,MU14,MU,Retail,MU14,76
+15,MU13,MU,Retail,MU13,93
+15,MU12,MU,Retail,MU12,57
+15,MU11,MU,Retail,MU11,20
+15,MU10,MU,Retail,MU10,98
+15,MU08_MU09,MU,Retail_Combined,MU08 & MU09,96
+15,MU07a,MU,Anchor_Retail,MU07a,6
+15,MU07b,MU,Anchor_Retail,MU07b,23
+15,MU06,MU,Retail,MU06,34
+15,MU05,MU,Retail,MU05,91
+15,MU04,MU,Retail,MU04,138
+15,MU03b,MU,Retail,MU03b,67
+15,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,37
+15,MU02a,MU,Retail,MU02a,51
+15,MU01,MU,Anchor_Retail,MU01,44
+15,MU01b,MU,Retail,MU01b,8
+15,MU01c,MU,Retail,MU01c,6
+15,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,29
+15,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,25
+15,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,22
+15,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,30
+15,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,35
+15,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,24
+15,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,9
+15,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,13
+15,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,8
+15,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,12
+15,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,42
+15,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,17
+15,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,42
+15,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,21
+15,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,148
+15,MU-ENT-WEST,MU,Entrance,West entry / exit,102
+15,MU-ENT-EAST,MU,Entrance,East entry / exit,119
+15,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,114
+15,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1034
+15,L1-C-WEST-MAIN,L1,Corridor,West main corridor,842
+15,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,795
+15,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,1809
+15,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1165
+15,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,178
+15,L1-C-EAST-HUB,L1,Corridor,East hub corridor,641
+15,L1-C-EAST-WING,L1,Corridor,East wing corridor,180
+15,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,173
+15,L1-L119,L1,Retail,L119,179
+15,L1-L118,L1,Retail,L118,150
+15,L1-L117,L1,Retail,L117,170
+15,L1-L116,L1,Retail,L116,330
+15,L1-L115,L1,Retail,L115,209
+15,L1-L114,L1,Retail,L114,540
+15,L1-L113,L1,Retail,L113,371
+15,L1-L112,L1,Retail,L112,370
+15,L1-L111,L1,Retail,L111,415
+15,L1-L110,L1,Retail,L110,133
+15,L1-L109,L1,Retail,L109,198
+15,L1-L108,L1,Retail,L108,183
+15,L1-L108A,L1,Retail,L108a,146
+15,L1-L1H-1,L1,Retail,L1H(1),81
+15,L1-L106-L107,L1,Retail_Combined,L106 & L107,120
+15,L1-L105,L1,Retail,L105,81
+15,L1-L104,L1,Retail,L104,165
+15,L1-L103,L1,Retail,L103,178
+15,L1-L102,L1,Retail,L102,123
+15,L1-L101,L1,Retail,L101,324
+15,L1-L120B,L1,Retail,L120b,62
+15,L1-L120,L1,Retail,L120,167
+15,L1-L121,L1,Retail,L121,185
+15,L1-L122,L1,Retail,L122,218
+15,L1-L123,L1,Retail,L123,241
+15,L1-L124,L1,Retail,L124,230
+15,L1-L125,L1,Retail,L125,379
+15,L1-MOH-L101,L1,Hotel_Service,MOH L101,8
+15,L1-MOH-L102,L1,Hotel_Service,MOH L102,71
+15,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",7
+15,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,29
+15,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,70
+15,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,50
+15,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,49
+15,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,51
+15,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,52
+15,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,53
+15,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,14
+15,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,45
+15,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,67
+15,L1-F-INFO-WEST,L1,Facility_Service,Information desk,49
+15,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,23
+15,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,32
+15,L1-ENT-WEST,L1,Entrance,West entrance / exit,156
+15,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,166
+15,L1-ENT-EAST,L1,Entrance,East entrance / exit,140
+15,L1-ENT-SOUTH,L1,Entrance,South transit entrance,191
+15,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+15,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+15,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+15,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+15,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+15,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+15,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+15,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+15,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+15,L2-L227,L2,Retail,L227,0
+15,L2-L226,L2,Retail,L226,0
+15,L2-L225B,L2,Retail,L225b,0
+15,L2-L225A,L2,Retail,L225a,0
+15,L2-L224,L2,Retail,L224,0
+15,L2-L223,L2,Retail,L223,0
+15,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+15,L2-L220,L2,Retail,L220,0
+15,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+15,L2-L217,L2,Retail,L217,0
+15,L2-L216,L2,Retail,L216,0
+15,L2-L215,L2,Retail,L215,0
+15,L2-L214,L2,Retail,L214,0
+15,L2-L213,L2,Retail,L213,0
+15,L2-L211,L2,Retail,L211,0
+15,L2-L210B,L2,Retail,L210b,0
+15,L2-L210A,L2,Retail,L210a,0
+15,L2-L209,L2,Retail,L209,0
+15,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+15,L2-L206,L2,Retail,L206,0
+15,L2-L205,L2,Retail,L205,0
+15,L2-L204,L2,Retail,L204,0
+15,L2-L203,L2,Retail,L203,0
+15,L2-L202,L2,Retail,L202,0
+15,L2-L201,L2,Retail,L201,0
+15,L2-L228,L2,Retail,L228,0
+15,L2-L229A,L2,Retail,L229a,0
+15,L2-L229B,L2,Retail,L229b,0
+15,L2-L230,L2,Retail,L230,0
+15,L2-L231,L2,Retail,L231,0
+15,L2-L232,L2,Retail,L232,0
+15,L2-L233,L2,Retail,L233,0
+15,L2-L234,L2,Retail,L234,0
+15,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+15,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+15,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+15,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+15,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+15,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+15,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+15,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+15,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+15,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+15,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+15,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+15,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+15,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+15,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+15,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+15,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+15,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+15,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+15,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+15,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+15,L3-L302,L3,Retail,L302,0
+15,L3-L303,L3,Retail,L303,0
+15,L3-L304,L3,Retail,L304,0
+15,L3-L305,L3,Retail,L305,0
+15,L3-L306,L3,Retail,L306,0
+15,L3-L307,L3,Retail,L307,0
+15,L3-L308A,L3,Retail,L308a,0
+15,L3-L308B,L3,Retail,L308b,0
+15,L3-L308C,L3,Retail,L308c,0
+15,L3-L308D,L3,Retail,L308d,0
+15,L3-L308E,L3,Retail,L308e,0
+15,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+15,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+15,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+15,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+15,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+15,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+15,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+15,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+15,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+15,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+15,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+15,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+15,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+15,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+15,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+16,C-WEST-LOOP,M,Corridor,West atrium loop corridor,131
+16,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1169
+16,C-WEST-MAIN,M,Corridor,West main corridor,1048
+16,C-CENTER-WEST,M,Corridor,Center west corridor,1164
+16,C-CENTER-NORTH,M,Corridor,Center north corridor,540
+16,C-CENTER-SOUTH,M,Corridor,Center south corridor,1196
+16,C-EAST-HUB,M,Corridor,East hub corridor,451
+16,C-EAST-BRIDGE,M,Corridor,East bridge corridor,50
+16,C-EAST-TERMINAL,M,Corridor,East terminal corridor,6
+16,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1086
+16,M37b,M,Retail,M37b,8
+16,M36,M,Retail,M36,2
+16,M35,M,Retail,M35,10
+16,M34,M,Retail,M34,33
+16,M33,M,Retail,M33,73
+16,M32,M,Retail,M32,23
+16,M31,M,Retail,M31,50
+16,M30,M,Retail,M30,72
+16,M29,M,Retail,M29,76
+16,M28,M,Retail,M28,120
+16,M27,M,Retail,M27,63
+16,M26,M,Retail,M26,129
+16,M25,M,Retail,M25,70
+16,M24,M,Retail,M24,44
+16,M23,M,Retail,M23,19
+16,M22,M,Retail,M22,13
+16,M21,M,Anchor_Retail,M21,48
+16,M20,M,Retail,M20,15
+16,M19,M,Retail,M19,12
+16,M17_M18,M,Retail,M17 & M18,36
+16,M16,M,Retail,M16,25
+16,M15,M,Retail,M15,39
+16,M14,M,Retail,M14,22
+16,M13,M,Retail,M13,56
+16,M12b,M,Retail,M12b,17
+16,M12a,M,Anchor_Retail,M12a,10
+16,M10_M11,M,Retail,M10 & M11,6
+16,M09,M,Retail,M09,40
+16,M08,M,Retail,M08,17
+16,M07,M,Retail,M07,29
+16,M06,M,Retail,M06,31
+16,M05,M,Retail,M05,121
+16,M04,M,Retail,M04,50
+16,M03,M,Retail,M03,76
+16,M02,M,Retail,M02,73
+16,M01,M,Anchor_Retail,M01,130
+16,M68,M,Retail,M68,163
+16,M67,M,Retail,M67,129
+16,M66,M,Retail,M66,90
+16,M65,M,Retail,M65,137
+16,M64,M,Retail,M64,165
+16,M63,M,Retail,M63,80
+16,M62,M,Retail,M62,61
+16,M61,M,Retail,M61,111
+16,M60,M,Retail,M60,72
+16,M59,M,Retail,M59,24
+16,M58,M,Retail,M58,71
+16,M57,M,Retail,M57,100
+16,M56,M,Retail,M56,68
+16,M55,M,Retail,M55,79
+16,M54,M,Retail,M54,30
+16,M53,M,Retail,M53,44
+16,M52,M,Retail,M52,50
+16,M51,M,Retail,M51,106
+16,M50,M,Retail,M50,43
+16,M49,M,Retail,M49,23
+16,M48b,M,Retail,M48b,27
+16,M48a,M,Retail,M48a,69
+16,M47,M,Retail,M47,73
+16,M46,M,Retail,M46,75
+16,M45,M,Retail,M45,66
+16,M44,M,Retail,M44,24
+16,M43,M,Retail,M43,67
+16,M42,M,Retail,M42,53
+16,M41a,M,Retail,M41a,80
+16,M41b,M,Retail,M41b,78
+16,M40,M,Retail,M40,10
+16,M39,M,Retail,M39,2
+16,M38,M,Retail,M38,2
+16,M15a,M,Retail_Kiosk,M15a,27
+16,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,3
+16,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,40
+16,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+16,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,10
+16,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,40
+16,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,2
+16,F-ELEV-01,M,Facility_Elevator,Elevator bank,6
+16,F-ELEV-02,M,Facility_Elevator,Elevator bank,7
+16,F-ESC-01,M,Facility_Escalator,Escalator,16
+16,F-ESC-02,M,Facility_Escalator,Escalator,26
+16,F-ESC-03,M,Facility_Escalator,Escalator,19
+16,F-ESC-04,M,Facility_Escalator,Escalator,8
+16,F-ESC-05,M,Facility_Escalator,Escalator,43
+16,F-ESC-06,M,Facility_Escalator,Escalator,3
+16,F-ESC-07,M,Facility_Escalator,Escalator,2
+16,F-PARK-01,M,Facility_Parking,Parking access,17
+16,F-PARK-02,M,Facility_Parking,Parking access,11
+16,F-PARK-03,M,Facility_Parking,Parking access,2
+16,F-INFO-01,M,Facility_Service,Information desk,18
+16,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,17
+16,E-TRANSIT-01,M,Entrance,Southwest transit entrance,129
+16,E-BUS-01,M,Entrance,South transit / bus access,115
+16,E-TRANSIT-02,M,Entrance,South transit / rail access,134
+16,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1518
+16,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,492
+16,MU-C-WEST-MAIN,MU,Corridor,West main corridor,280
+16,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,918
+16,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,571
+16,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1105
+16,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,1990
+16,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,316
+16,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,195
+16,MU-C-EAST-HUB,MU,Corridor,East central corridor,893
+16,MU-C-EAST-WING,MU,Corridor,East wing corridor,267
+16,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,210
+16,MU34,MU,Retail,MU34,44
+16,MU35,MU,Anchor_Retail,MU35,180
+16,MU36,MU,Retail,MU36,79
+16,MU37,MU,Retail,MU37,73
+16,MU38,MU,Retail,MU38,114
+16,MU39,MU,Retail,MU39,120
+16,MU40,MU,Retail,MU40,52
+16,MU41a,MU,Retail,MU41a,85
+16,MU41b,MU,Retail,MU41b,54
+16,MU42,MU,Anchor_Retail,MU42,69
+16,MU43a,MU,Retail,MU43a,28
+16,MU43b,MU,Retail,MU43b,27
+16,MU44,MU,Retail,MU44,45
+16,MU45,MU,Retail,MU45,50
+16,MU45a,MU,Retail,MU45a,59
+16,MU46,MU,Retail,MU46,104
+16,MU47a,MU,Retail,MU47a,139
+16,MU47b,MU,Retail,MU47b,101
+16,MU48,MU,Retail,MU48,150
+16,MU49,MU,Retail,MU49,31
+16,MU50,MU,Retail,MU50,41
+16,MU51,MU,Retail,MU51,53
+16,MU52,MU,Retail,MU52,38
+16,MU53,MU,Retail,MU53,38
+16,MU54,MU,Retail,MU54,11
+16,MU55,MU,Anchor_Retail,MU55,86
+16,MU32_MU33,MU,Retail_Combined,MU32 & MU33,190
+16,MU31,MU,Retail,MU31,132
+16,MU29_MU30,MU,Retail_Combined,MU29 & MU30,76
+16,MU28,MU,Retail,MU28,89
+16,MU27,MU,Retail,MU27,48
+16,MU26,MU,Retail,MU26,29
+16,MU25,MU,Retail,MU25,61
+16,MU24,MU,Retail,MU24,36
+16,MU22,MU,Retail,MU22,57
+16,MU20,MU,Retail,MU20,80
+16,MU21,MU,Retail,MU21,157
+16,MU19,MU,Retail,MU19,77
+16,MU18,MU,Retail,MU18,104
+16,MU17,MU,Retail_Kiosk,MU17,99
+16,MU16g_h,MU,Retail_Combined,MU16g & MU16h,105
+16,MU16f,MU,Retail,MU16f,105
+16,MU16e,MU,Retail,MU16e,83
+16,MU16d,MU,Retail,MU16d,104
+16,MU16c,MU,Retail,MU16c,86
+16,MU16k,MU,Retail_Kiosk,MU16k,93
+16,MU16i,MU,Retail_Kiosk,MU16i,105
+16,MU16j,MU,Retail_Kiosk,MU16j,117
+16,MU16l,MU,Retail_Kiosk,MU16l,115
+16,MU16b,MU,Retail,MU16b,122
+16,MU16a,MU,Retail_Kiosk,MU16a,97
+16,MU15,MU,Retail,MU15,67
+16,MU14,MU,Retail,MU14,108
+16,MU13,MU,Retail,MU13,92
+16,MU12,MU,Retail,MU12,72
+16,MU11,MU,Retail,MU11,29
+16,MU10,MU,Retail,MU10,88
+16,MU08_MU09,MU,Retail_Combined,MU08 & MU09,119
+16,MU07a,MU,Anchor_Retail,MU07a,27
+16,MU07b,MU,Anchor_Retail,MU07b,29
+16,MU06,MU,Retail,MU06,41
+16,MU05,MU,Retail,MU05,90
+16,MU04,MU,Retail,MU04,109
+16,MU03b,MU,Retail,MU03b,68
+16,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,44
+16,MU02a,MU,Retail,MU02a,65
+16,MU01,MU,Anchor_Retail,MU01,56
+16,MU01b,MU,Retail,MU01b,12
+16,MU01c,MU,Retail,MU01c,23
+16,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,27
+16,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,32
+16,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,34
+16,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,25
+16,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,24
+16,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,32
+16,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,12
+16,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,28
+16,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,15
+16,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,22
+16,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,46
+16,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,15
+16,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,42
+16,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,29
+16,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,134
+16,MU-ENT-WEST,MU,Entrance,West entry / exit,111
+16,MU-ENT-EAST,MU,Entrance,East entry / exit,118
+16,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,144
+16,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1149
+16,L1-C-WEST-MAIN,L1,Corridor,West main corridor,892
+16,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,935
+16,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,1984
+16,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1253
+16,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,198
+16,L1-C-EAST-HUB,L1,Corridor,East hub corridor,727
+16,L1-C-EAST-WING,L1,Corridor,East wing corridor,179
+16,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,197
+16,L1-L119,L1,Retail,L119,153
+16,L1-L118,L1,Retail,L118,159
+16,L1-L117,L1,Retail,L117,176
+16,L1-L116,L1,Retail,L116,328
+16,L1-L115,L1,Retail,L115,221
+16,L1-L114,L1,Retail,L114,561
+16,L1-L113,L1,Retail,L113,383
+16,L1-L112,L1,Retail,L112,391
+16,L1-L111,L1,Retail,L111,467
+16,L1-L110,L1,Retail,L110,161
+16,L1-L109,L1,Retail,L109,222
+16,L1-L108,L1,Retail,L108,189
+16,L1-L108A,L1,Retail,L108a,182
+16,L1-L1H-1,L1,Retail,L1H(1),69
+16,L1-L106-L107,L1,Retail_Combined,L106 & L107,175
+16,L1-L105,L1,Retail,L105,136
+16,L1-L104,L1,Retail,L104,162
+16,L1-L103,L1,Retail,L103,205
+16,L1-L102,L1,Retail,L102,132
+16,L1-L101,L1,Retail,L101,340
+16,L1-L120B,L1,Retail,L120b,67
+16,L1-L120,L1,Retail,L120,202
+16,L1-L121,L1,Retail,L121,233
+16,L1-L122,L1,Retail,L122,241
+16,L1-L123,L1,Retail,L123,281
+16,L1-L124,L1,Retail,L124,192
+16,L1-L125,L1,Retail,L125,368
+16,L1-MOH-L101,L1,Hotel_Service,MOH L101,14
+16,L1-MOH-L102,L1,Hotel_Service,MOH L102,89
+16,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",15
+16,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,37
+16,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,67
+16,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,55
+16,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,65
+16,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,33
+16,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,39
+16,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,53
+16,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,28
+16,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,59
+16,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,76
+16,L1-F-INFO-WEST,L1,Facility_Service,Information desk,62
+16,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,19
+16,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,30
+16,L1-ENT-WEST,L1,Entrance,West entrance / exit,157
+16,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,151
+16,L1-ENT-EAST,L1,Entrance,East entrance / exit,138
+16,L1-ENT-SOUTH,L1,Entrance,South transit entrance,198
+16,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+16,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+16,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+16,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+16,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+16,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+16,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+16,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+16,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+16,L2-L227,L2,Retail,L227,0
+16,L2-L226,L2,Retail,L226,0
+16,L2-L225B,L2,Retail,L225b,0
+16,L2-L225A,L2,Retail,L225a,0
+16,L2-L224,L2,Retail,L224,0
+16,L2-L223,L2,Retail,L223,0
+16,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+16,L2-L220,L2,Retail,L220,0
+16,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+16,L2-L217,L2,Retail,L217,0
+16,L2-L216,L2,Retail,L216,0
+16,L2-L215,L2,Retail,L215,0
+16,L2-L214,L2,Retail,L214,0
+16,L2-L213,L2,Retail,L213,0
+16,L2-L211,L2,Retail,L211,0
+16,L2-L210B,L2,Retail,L210b,0
+16,L2-L210A,L2,Retail,L210a,0
+16,L2-L209,L2,Retail,L209,0
+16,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+16,L2-L206,L2,Retail,L206,0
+16,L2-L205,L2,Retail,L205,0
+16,L2-L204,L2,Retail,L204,0
+16,L2-L203,L2,Retail,L203,0
+16,L2-L202,L2,Retail,L202,0
+16,L2-L201,L2,Retail,L201,0
+16,L2-L228,L2,Retail,L228,0
+16,L2-L229A,L2,Retail,L229a,0
+16,L2-L229B,L2,Retail,L229b,0
+16,L2-L230,L2,Retail,L230,0
+16,L2-L231,L2,Retail,L231,0
+16,L2-L232,L2,Retail,L232,0
+16,L2-L233,L2,Retail,L233,0
+16,L2-L234,L2,Retail,L234,0
+16,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+16,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+16,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+16,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+16,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+16,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+16,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+16,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+16,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+16,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+16,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+16,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+16,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+16,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+16,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+16,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+16,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+16,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+16,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+16,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+16,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+16,L3-L302,L3,Retail,L302,0
+16,L3-L303,L3,Retail,L303,0
+16,L3-L304,L3,Retail,L304,0
+16,L3-L305,L3,Retail,L305,0
+16,L3-L306,L3,Retail,L306,0
+16,L3-L307,L3,Retail,L307,0
+16,L3-L308A,L3,Retail,L308a,0
+16,L3-L308B,L3,Retail,L308b,0
+16,L3-L308C,L3,Retail,L308c,0
+16,L3-L308D,L3,Retail,L308d,0
+16,L3-L308E,L3,Retail,L308e,0
+16,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+16,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+16,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+16,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+16,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+16,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+16,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+16,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+16,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+16,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+16,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+16,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+16,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+16,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+16,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+17,C-WEST-LOOP,M,Corridor,West atrium loop corridor,154
+17,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1329
+17,C-WEST-MAIN,M,Corridor,West main corridor,1078
+17,C-CENTER-WEST,M,Corridor,Center west corridor,1190
+17,C-CENTER-NORTH,M,Corridor,Center north corridor,582
+17,C-CENTER-SOUTH,M,Corridor,Center south corridor,1382
+17,C-EAST-HUB,M,Corridor,East hub corridor,534
+17,C-EAST-BRIDGE,M,Corridor,East bridge corridor,22
+17,C-EAST-TERMINAL,M,Corridor,East terminal corridor,2
+17,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1299
+17,M37b,M,Retail,M37b,6
+17,M36,M,Retail,M36,8
+17,M35,M,Retail,M35,8
+17,M34,M,Retail,M34,12
+17,M33,M,Retail,M33,84
+17,M32,M,Retail,M32,38
+17,M31,M,Retail,M31,40
+17,M30,M,Retail,M30,75
+17,M29,M,Retail,M29,94
+17,M28,M,Retail,M28,154
+17,M27,M,Retail,M27,69
+17,M26,M,Retail,M26,131
+17,M25,M,Retail,M25,48
+17,M24,M,Retail,M24,53
+17,M23,M,Retail,M23,11
+17,M22,M,Retail,M22,19
+17,M21,M,Anchor_Retail,M21,81
+17,M20,M,Retail,M20,28
+17,M19,M,Retail,M19,20
+17,M17_M18,M,Retail,M17 & M18,30
+17,M16,M,Retail,M16,14
+17,M15,M,Retail,M15,42
+17,M14,M,Retail,M14,17
+17,M13,M,Retail,M13,44
+17,M12b,M,Retail,M12b,11
+17,M12a,M,Anchor_Retail,M12a,15
+17,M10_M11,M,Retail,M10 & M11,7
+17,M09,M,Retail,M09,42
+17,M08,M,Retail,M08,29
+17,M07,M,Retail,M07,36
+17,M06,M,Retail,M06,21
+17,M05,M,Retail,M05,118
+17,M04,M,Retail,M04,46
+17,M03,M,Retail,M03,87
+17,M02,M,Retail,M02,92
+17,M01,M,Anchor_Retail,M01,149
+17,M68,M,Retail,M68,173
+17,M67,M,Retail,M67,108
+17,M66,M,Retail,M66,101
+17,M65,M,Retail,M65,144
+17,M64,M,Retail,M64,202
+17,M63,M,Retail,M63,93
+17,M62,M,Retail,M62,47
+17,M61,M,Retail,M61,80
+17,M60,M,Retail,M60,71
+17,M59,M,Retail,M59,37
+17,M58,M,Retail,M58,88
+17,M57,M,Retail,M57,83
+17,M56,M,Retail,M56,83
+17,M55,M,Retail,M55,82
+17,M54,M,Retail,M54,33
+17,M53,M,Retail,M53,79
+17,M52,M,Retail,M52,89
+17,M51,M,Retail,M51,88
+17,M50,M,Retail,M50,42
+17,M49,M,Retail,M49,24
+17,M48b,M,Retail,M48b,33
+17,M48a,M,Retail,M48a,89
+17,M47,M,Retail,M47,92
+17,M46,M,Retail,M46,84
+17,M45,M,Retail,M45,68
+17,M44,M,Retail,M44,46
+17,M43,M,Retail,M43,87
+17,M42,M,Retail,M42,52
+17,M41a,M,Retail,M41a,87
+17,M41b,M,Retail,M41b,95
+17,M40,M,Retail,M40,8
+17,M39,M,Retail,M39,2
+17,M38,M,Retail,M38,2
+17,M15a,M,Retail_Kiosk,M15a,17
+17,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,9
+17,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,51
+17,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+17,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,15
+17,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,42
+17,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,2
+17,F-ELEV-01,M,Facility_Elevator,Elevator bank,3
+17,F-ELEV-02,M,Facility_Elevator,Elevator bank,12
+17,F-ESC-01,M,Facility_Escalator,Escalator,11
+17,F-ESC-02,M,Facility_Escalator,Escalator,18
+17,F-ESC-03,M,Facility_Escalator,Escalator,30
+17,F-ESC-04,M,Facility_Escalator,Escalator,15
+17,F-ESC-05,M,Facility_Escalator,Escalator,51
+17,F-ESC-06,M,Facility_Escalator,Escalator,5
+17,F-ESC-07,M,Facility_Escalator,Escalator,2
+17,F-PARK-01,M,Facility_Parking,Parking access,25
+17,F-PARK-02,M,Facility_Parking,Parking access,6
+17,F-PARK-03,M,Facility_Parking,Parking access,4
+17,F-INFO-01,M,Facility_Service,Information desk,23
+17,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,18
+17,E-TRANSIT-01,M,Entrance,Southwest transit entrance,147
+17,E-BUS-01,M,Entrance,South transit / bus access,185
+17,E-TRANSIT-02,M,Entrance,South transit / rail access,171
+17,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1637
+17,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,551
+17,MU-C-WEST-MAIN,MU,Corridor,West main corridor,329
+17,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,1061
+17,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,626
+17,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1271
+17,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,2315
+17,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,345
+17,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,170
+17,MU-C-EAST-HUB,MU,Corridor,East central corridor,914
+17,MU-C-EAST-WING,MU,Corridor,East wing corridor,313
+17,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,181
+17,MU34,MU,Retail,MU34,71
+17,MU35,MU,Anchor_Retail,MU35,213
+17,MU36,MU,Retail,MU36,87
+17,MU37,MU,Retail,MU37,100
+17,MU38,MU,Retail,MU38,146
+17,MU39,MU,Retail,MU39,130
+17,MU40,MU,Retail,MU40,54
+17,MU41a,MU,Retail,MU41a,85
+17,MU41b,MU,Retail,MU41b,50
+17,MU42,MU,Anchor_Retail,MU42,72
+17,MU43a,MU,Retail,MU43a,41
+17,MU43b,MU,Retail,MU43b,41
+17,MU44,MU,Retail,MU44,70
+17,MU45,MU,Retail,MU45,89
+17,MU45a,MU,Retail,MU45a,84
+17,MU46,MU,Retail,MU46,118
+17,MU47a,MU,Retail,MU47a,168
+17,MU47b,MU,Retail,MU47b,90
+17,MU48,MU,Retail,MU48,129
+17,MU49,MU,Retail,MU49,28
+17,MU50,MU,Retail,MU50,18
+17,MU51,MU,Retail,MU51,69
+17,MU52,MU,Retail,MU52,27
+17,MU53,MU,Retail,MU53,20
+17,MU54,MU,Retail,MU54,19
+17,MU55,MU,Anchor_Retail,MU55,75
+17,MU32_MU33,MU,Retail_Combined,MU32 & MU33,203
+17,MU31,MU,Retail,MU31,161
+17,MU29_MU30,MU,Retail_Combined,MU29 & MU30,87
+17,MU28,MU,Retail,MU28,115
+17,MU27,MU,Retail,MU27,44
+17,MU26,MU,Retail,MU26,44
+17,MU25,MU,Retail,MU25,70
+17,MU24,MU,Retail,MU24,50
+17,MU22,MU,Retail,MU22,38
+17,MU20,MU,Retail,MU20,103
+17,MU21,MU,Retail,MU21,139
+17,MU19,MU,Retail,MU19,115
+17,MU18,MU,Retail,MU18,132
+17,MU17,MU,Retail_Kiosk,MU17,123
+17,MU16g_h,MU,Retail_Combined,MU16g & MU16h,141
+17,MU16f,MU,Retail,MU16f,126
+17,MU16e,MU,Retail,MU16e,121
+17,MU16d,MU,Retail,MU16d,136
+17,MU16c,MU,Retail,MU16c,92
+17,MU16k,MU,Retail_Kiosk,MU16k,103
+17,MU16i,MU,Retail_Kiosk,MU16i,157
+17,MU16j,MU,Retail_Kiosk,MU16j,115
+17,MU16l,MU,Retail_Kiosk,MU16l,127
+17,MU16b,MU,Retail,MU16b,144
+17,MU16a,MU,Retail_Kiosk,MU16a,131
+17,MU15,MU,Retail,MU15,61
+17,MU14,MU,Retail,MU14,80
+17,MU13,MU,Retail,MU13,104
+17,MU12,MU,Retail,MU12,80
+17,MU11,MU,Retail,MU11,23
+17,MU10,MU,Retail,MU10,92
+17,MU08_MU09,MU,Retail_Combined,MU08 & MU09,117
+17,MU07a,MU,Anchor_Retail,MU07a,28
+17,MU07b,MU,Anchor_Retail,MU07b,26
+17,MU06,MU,Retail,MU06,26
+17,MU05,MU,Retail,MU05,69
+17,MU04,MU,Retail,MU04,142
+17,MU03b,MU,Retail,MU03b,69
+17,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,62
+17,MU02a,MU,Retail,MU02a,59
+17,MU01,MU,Anchor_Retail,MU01,45
+17,MU01b,MU,Retail,MU01b,11
+17,MU01c,MU,Retail,MU01c,7
+17,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,27
+17,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,45
+17,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,56
+17,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,32
+17,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,43
+17,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,39
+17,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,15
+17,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,11
+17,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,21
+17,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,13
+17,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,48
+17,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,21
+17,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,42
+17,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,29
+17,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,158
+17,MU-ENT-WEST,MU,Entrance,West entry / exit,140
+17,MU-ENT-EAST,MU,Entrance,East entry / exit,144
+17,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,149
+17,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1351
+17,L1-C-WEST-MAIN,L1,Corridor,West main corridor,1112
+17,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,978
+17,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,2325
+17,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1442
+17,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,271
+17,L1-C-EAST-HUB,L1,Corridor,East hub corridor,788
+17,L1-C-EAST-WING,L1,Corridor,East wing corridor,218
+17,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,205
+17,L1-L119,L1,Retail,L119,184
+17,L1-L118,L1,Retail,L118,169
+17,L1-L117,L1,Retail,L117,220
+17,L1-L116,L1,Retail,L116,440
+17,L1-L115,L1,Retail,L115,287
+17,L1-L114,L1,Retail,L114,620
+17,L1-L113,L1,Retail,L113,413
+17,L1-L112,L1,Retail,L112,470
+17,L1-L111,L1,Retail,L111,566
+17,L1-L110,L1,Retail,L110,165
+17,L1-L109,L1,Retail,L109,254
+17,L1-L108,L1,Retail,L108,221
+17,L1-L108A,L1,Retail,L108a,205
+17,L1-L1H-1,L1,Retail,L1H(1),112
+17,L1-L106-L107,L1,Retail_Combined,L106 & L107,180
+17,L1-L105,L1,Retail,L105,141
+17,L1-L104,L1,Retail,L104,215
+17,L1-L103,L1,Retail,L103,216
+17,L1-L102,L1,Retail,L102,151
+17,L1-L101,L1,Retail,L101,422
+17,L1-L120B,L1,Retail,L120b,74
+17,L1-L120,L1,Retail,L120,226
+17,L1-L121,L1,Retail,L121,259
+17,L1-L122,L1,Retail,L122,280
+17,L1-L123,L1,Retail,L123,290
+17,L1-L124,L1,Retail,L124,219
+17,L1-L125,L1,Retail,L125,422
+17,L1-MOH-L101,L1,Hotel_Service,MOH L101,14
+17,L1-MOH-L102,L1,Hotel_Service,MOH L102,80
+17,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",22
+17,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,49
+17,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,87
+17,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,43
+17,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,71
+17,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,48
+17,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,76
+17,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,71
+17,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,22
+17,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,86
+17,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,85
+17,L1-F-INFO-WEST,L1,Facility_Service,Information desk,58
+17,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,21
+17,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,27
+17,L1-ENT-WEST,L1,Entrance,West entrance / exit,202
+17,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,190
+17,L1-ENT-EAST,L1,Entrance,East entrance / exit,184
+17,L1-ENT-SOUTH,L1,Entrance,South transit entrance,200
+17,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+17,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+17,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+17,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+17,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+17,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+17,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+17,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+17,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+17,L2-L227,L2,Retail,L227,0
+17,L2-L226,L2,Retail,L226,0
+17,L2-L225B,L2,Retail,L225b,0
+17,L2-L225A,L2,Retail,L225a,0
+17,L2-L224,L2,Retail,L224,0
+17,L2-L223,L2,Retail,L223,0
+17,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+17,L2-L220,L2,Retail,L220,0
+17,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+17,L2-L217,L2,Retail,L217,0
+17,L2-L216,L2,Retail,L216,0
+17,L2-L215,L2,Retail,L215,0
+17,L2-L214,L2,Retail,L214,0
+17,L2-L213,L2,Retail,L213,0
+17,L2-L211,L2,Retail,L211,0
+17,L2-L210B,L2,Retail,L210b,0
+17,L2-L210A,L2,Retail,L210a,0
+17,L2-L209,L2,Retail,L209,0
+17,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+17,L2-L206,L2,Retail,L206,0
+17,L2-L205,L2,Retail,L205,0
+17,L2-L204,L2,Retail,L204,0
+17,L2-L203,L2,Retail,L203,0
+17,L2-L202,L2,Retail,L202,0
+17,L2-L201,L2,Retail,L201,0
+17,L2-L228,L2,Retail,L228,0
+17,L2-L229A,L2,Retail,L229a,0
+17,L2-L229B,L2,Retail,L229b,0
+17,L2-L230,L2,Retail,L230,0
+17,L2-L231,L2,Retail,L231,0
+17,L2-L232,L2,Retail,L232,0
+17,L2-L233,L2,Retail,L233,0
+17,L2-L234,L2,Retail,L234,0
+17,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+17,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+17,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+17,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+17,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+17,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+17,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+17,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+17,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+17,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+17,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+17,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+17,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+17,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+17,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+17,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+17,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+17,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+17,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+17,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+17,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+17,L3-L302,L3,Retail,L302,0
+17,L3-L303,L3,Retail,L303,0
+17,L3-L304,L3,Retail,L304,0
+17,L3-L305,L3,Retail,L305,0
+17,L3-L306,L3,Retail,L306,0
+17,L3-L307,L3,Retail,L307,0
+17,L3-L308A,L3,Retail,L308a,0
+17,L3-L308B,L3,Retail,L308b,0
+17,L3-L308C,L3,Retail,L308c,0
+17,L3-L308D,L3,Retail,L308d,0
+17,L3-L308E,L3,Retail,L308e,0
+17,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+17,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+17,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+17,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+17,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+17,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+17,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+17,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+17,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+17,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+17,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+17,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+17,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+17,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+17,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+18,C-WEST-LOOP,M,Corridor,West atrium loop corridor,185
+18,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1632
+18,C-WEST-MAIN,M,Corridor,West main corridor,1275
+18,C-CENTER-WEST,M,Corridor,Center west corridor,1422
+18,C-CENTER-NORTH,M,Corridor,Center north corridor,659
+18,C-CENTER-SOUTH,M,Corridor,Center south corridor,1673
+18,C-EAST-HUB,M,Corridor,East hub corridor,620
+18,C-EAST-BRIDGE,M,Corridor,East bridge corridor,49
+18,C-EAST-TERMINAL,M,Corridor,East terminal corridor,1
+18,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1588
+18,M37b,M,Retail,M37b,8
+18,M36,M,Retail,M36,2
+18,M35,M,Retail,M35,7
+18,M34,M,Retail,M34,26
+18,M33,M,Retail,M33,109
+18,M32,M,Retail,M32,37
+18,M31,M,Retail,M31,55
+18,M30,M,Retail,M30,77
+18,M29,M,Retail,M29,83
+18,M28,M,Retail,M28,136
+18,M27,M,Retail,M27,70
+18,M26,M,Retail,M26,159
+18,M25,M,Retail,M25,56
+18,M24,M,Retail,M24,72
+18,M23,M,Retail,M23,32
+18,M22,M,Retail,M22,9
+18,M21,M,Anchor_Retail,M21,84
+18,M20,M,Retail,M20,15
+18,M19,M,Retail,M19,8
+18,M17_M18,M,Retail,M17 & M18,30
+18,M16,M,Retail,M16,13
+18,M15,M,Retail,M15,41
+18,M14,M,Retail,M14,16
+18,M13,M,Retail,M13,39
+18,M12b,M,Retail,M12b,8
+18,M12a,M,Anchor_Retail,M12a,4
+18,M10_M11,M,Retail,M10 & M11,13
+18,M09,M,Retail,M09,65
+18,M08,M,Retail,M08,38
+18,M07,M,Retail,M07,46
+18,M06,M,Retail,M06,27
+18,M05,M,Retail,M05,114
+18,M04,M,Retail,M04,55
+18,M03,M,Retail,M03,108
+18,M02,M,Retail,M02,97
+18,M01,M,Anchor_Retail,M01,176
+18,M68,M,Retail,M68,236
+18,M67,M,Retail,M67,166
+18,M66,M,Retail,M66,120
+18,M65,M,Retail,M65,156
+18,M64,M,Retail,M64,233
+18,M63,M,Retail,M63,99
+18,M62,M,Retail,M62,58
+18,M61,M,Retail,M61,91
+18,M60,M,Retail,M60,65
+18,M59,M,Retail,M59,32
+18,M58,M,Retail,M58,67
+18,M57,M,Retail,M57,99
+18,M56,M,Retail,M56,76
+18,M55,M,Retail,M55,83
+18,M54,M,Retail,M54,40
+18,M53,M,Retail,M53,65
+18,M52,M,Retail,M52,66
+18,M51,M,Retail,M51,118
+18,M50,M,Retail,M50,31
+18,M49,M,Retail,M49,26
+18,M48b,M,Retail,M48b,39
+18,M48a,M,Retail,M48a,89
+18,M47,M,Retail,M47,113
+18,M46,M,Retail,M46,94
+18,M45,M,Retail,M45,88
+18,M44,M,Retail,M44,30
+18,M43,M,Retail,M43,109
+18,M42,M,Retail,M42,54
+18,M41a,M,Retail,M41a,113
+18,M41b,M,Retail,M41b,98
+18,M40,M,Retail,M40,12
+18,M39,M,Retail,M39,0
+18,M38,M,Retail,M38,0
+18,M15a,M,Retail_Kiosk,M15a,27
+18,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,6
+18,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,44
+18,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,1
+18,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,13
+18,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,38
+18,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,2
+18,F-ELEV-01,M,Facility_Elevator,Elevator bank,10
+18,F-ELEV-02,M,Facility_Elevator,Elevator bank,10
+18,F-ESC-01,M,Facility_Escalator,Escalator,19
+18,F-ESC-02,M,Facility_Escalator,Escalator,27
+18,F-ESC-03,M,Facility_Escalator,Escalator,38
+18,F-ESC-04,M,Facility_Escalator,Escalator,8
+18,F-ESC-05,M,Facility_Escalator,Escalator,69
+18,F-ESC-06,M,Facility_Escalator,Escalator,5
+18,F-ESC-07,M,Facility_Escalator,Escalator,0
+18,F-PARK-01,M,Facility_Parking,Parking access,19
+18,F-PARK-02,M,Facility_Parking,Parking access,10
+18,F-PARK-03,M,Facility_Parking,Parking access,10
+18,F-INFO-01,M,Facility_Service,Information desk,19
+18,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,25
+18,E-TRANSIT-01,M,Entrance,Southwest transit entrance,180
+18,E-BUS-01,M,Entrance,South transit / bus access,194
+18,E-TRANSIT-02,M,Entrance,South transit / rail access,198
+18,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1577
+18,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,768
+18,MU-C-WEST-MAIN,MU,Corridor,West main corridor,292
+18,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,1041
+18,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,673
+18,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1490
+18,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,3164
+18,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,361
+18,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,146
+18,MU-C-EAST-HUB,MU,Corridor,East central corridor,943
+18,MU-C-EAST-WING,MU,Corridor,East wing corridor,399
+18,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,151
+18,MU34,MU,Retail,MU34,65
+18,MU35,MU,Anchor_Retail,MU35,228
+18,MU36,MU,Retail,MU36,106
+18,MU37,MU,Retail,MU37,67
+18,MU38,MU,Retail,MU38,105
+18,MU39,MU,Retail,MU39,117
+18,MU40,MU,Retail,MU40,32
+18,MU41a,MU,Retail,MU41a,105
+18,MU41b,MU,Retail,MU41b,81
+18,MU42,MU,Anchor_Retail,MU42,120
+18,MU43a,MU,Retail,MU43a,30
+18,MU43b,MU,Retail,MU43b,25
+18,MU44,MU,Retail,MU44,59
+18,MU45,MU,Retail,MU45,58
+18,MU45a,MU,Retail,MU45a,63
+18,MU46,MU,Retail,MU46,95
+18,MU47a,MU,Retail,MU47a,126
+18,MU47b,MU,Retail,MU47b,70
+18,MU48,MU,Retail,MU48,102
+18,MU49,MU,Retail,MU49,40
+18,MU50,MU,Retail,MU50,29
+18,MU51,MU,Retail,MU51,64
+18,MU52,MU,Retail,MU52,21
+18,MU53,MU,Retail,MU53,23
+18,MU54,MU,Retail,MU54,27
+18,MU55,MU,Anchor_Retail,MU55,96
+18,MU32_MU33,MU,Retail_Combined,MU32 & MU33,157
+18,MU31,MU,Retail,MU31,127
+18,MU29_MU30,MU,Retail_Combined,MU29 & MU30,71
+18,MU28,MU,Retail,MU28,80
+18,MU27,MU,Retail,MU27,62
+18,MU26,MU,Retail,MU26,40
+18,MU25,MU,Retail,MU25,84
+18,MU24,MU,Retail,MU24,56
+18,MU22,MU,Retail,MU22,66
+18,MU20,MU,Retail,MU20,186
+18,MU21,MU,Retail,MU21,238
+18,MU19,MU,Retail,MU19,190
+18,MU18,MU,Retail,MU18,208
+18,MU17,MU,Retail_Kiosk,MU17,238
+18,MU16g_h,MU,Retail_Combined,MU16g & MU16h,225
+18,MU16f,MU,Retail,MU16f,219
+18,MU16e,MU,Retail,MU16e,188
+18,MU16d,MU,Retail,MU16d,227
+18,MU16c,MU,Retail,MU16c,194
+18,MU16k,MU,Retail_Kiosk,MU16k,167
+18,MU16i,MU,Retail_Kiosk,MU16i,241
+18,MU16j,MU,Retail_Kiosk,MU16j,185
+18,MU16l,MU,Retail_Kiosk,MU16l,189
+18,MU16b,MU,Retail,MU16b,237
+18,MU16a,MU,Retail_Kiosk,MU16a,182
+18,MU15,MU,Retail,MU15,80
+18,MU14,MU,Retail,MU14,73
+18,MU13,MU,Retail,MU13,65
+18,MU12,MU,Retail,MU12,44
+18,MU11,MU,Retail,MU11,41
+18,MU10,MU,Retail,MU10,71
+18,MU08_MU09,MU,Retail_Combined,MU08 & MU09,107
+18,MU07a,MU,Anchor_Retail,MU07a,21
+18,MU07b,MU,Anchor_Retail,MU07b,31
+18,MU06,MU,Retail,MU06,45
+18,MU05,MU,Retail,MU05,81
+18,MU04,MU,Retail,MU04,85
+18,MU03b,MU,Retail,MU03b,43
+18,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,49
+18,MU02a,MU,Retail,MU02a,39
+18,MU01,MU,Anchor_Retail,MU01,30
+18,MU01b,MU,Retail,MU01b,10
+18,MU01c,MU,Retail,MU01c,3
+18,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,31
+18,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,62
+18,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,44
+18,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,56
+18,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,33
+18,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,37
+18,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,15
+18,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,15
+18,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,16
+18,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,27
+18,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,45
+18,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,33
+18,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,61
+18,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,40
+18,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,174
+18,MU-ENT-WEST,MU,Entrance,West entry / exit,153
+18,MU-ENT-EAST,MU,Entrance,East entry / exit,182
+18,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,172
+18,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1480
+18,L1-C-WEST-MAIN,L1,Corridor,West main corridor,1237
+18,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,1146
+18,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,2646
+18,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1690
+18,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,291
+18,L1-C-EAST-HUB,L1,Corridor,East hub corridor,855
+18,L1-C-EAST-WING,L1,Corridor,East wing corridor,199
+18,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,264
+18,L1-L119,L1,Retail,L119,213
+18,L1-L118,L1,Retail,L118,223
+18,L1-L117,L1,Retail,L117,230
+18,L1-L116,L1,Retail,L116,456
+18,L1-L115,L1,Retail,L115,317
+18,L1-L114,L1,Retail,L114,714
+18,L1-L113,L1,Retail,L113,524
+18,L1-L112,L1,Retail,L112,570
+18,L1-L111,L1,Retail,L111,624
+18,L1-L110,L1,Retail,L110,174
+18,L1-L109,L1,Retail,L109,325
+18,L1-L108,L1,Retail,L108,265
+18,L1-L108A,L1,Retail,L108a,222
+18,L1-L1H-1,L1,Retail,L1H(1),102
+18,L1-L106-L107,L1,Retail_Combined,L106 & L107,175
+18,L1-L105,L1,Retail,L105,140
+18,L1-L104,L1,Retail,L104,204
+18,L1-L103,L1,Retail,L103,223
+18,L1-L102,L1,Retail,L102,148
+18,L1-L101,L1,Retail,L101,477
+18,L1-L120B,L1,Retail,L120b,102
+18,L1-L120,L1,Retail,L120,255
+18,L1-L121,L1,Retail,L121,283
+18,L1-L122,L1,Retail,L122,318
+18,L1-L123,L1,Retail,L123,305
+18,L1-L124,L1,Retail,L124,267
+18,L1-L125,L1,Retail,L125,485
+18,L1-MOH-L101,L1,Hotel_Service,MOH L101,12
+18,L1-MOH-L102,L1,Hotel_Service,MOH L102,92
+18,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",17
+18,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,37
+18,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,83
+18,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,81
+18,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,53
+18,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,70
+18,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,78
+18,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,69
+18,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,32
+18,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,73
+18,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,83
+18,L1-F-INFO-WEST,L1,Facility_Service,Information desk,81
+18,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,28
+18,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,40
+18,L1-ENT-WEST,L1,Entrance,West entrance / exit,200
+18,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,195
+18,L1-ENT-EAST,L1,Entrance,East entrance / exit,176
+18,L1-ENT-SOUTH,L1,Entrance,South transit entrance,230
+18,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+18,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+18,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+18,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+18,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+18,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+18,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+18,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+18,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+18,L2-L227,L2,Retail,L227,0
+18,L2-L226,L2,Retail,L226,0
+18,L2-L225B,L2,Retail,L225b,0
+18,L2-L225A,L2,Retail,L225a,0
+18,L2-L224,L2,Retail,L224,0
+18,L2-L223,L2,Retail,L223,0
+18,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+18,L2-L220,L2,Retail,L220,0
+18,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+18,L2-L217,L2,Retail,L217,0
+18,L2-L216,L2,Retail,L216,0
+18,L2-L215,L2,Retail,L215,0
+18,L2-L214,L2,Retail,L214,0
+18,L2-L213,L2,Retail,L213,0
+18,L2-L211,L2,Retail,L211,0
+18,L2-L210B,L2,Retail,L210b,0
+18,L2-L210A,L2,Retail,L210a,0
+18,L2-L209,L2,Retail,L209,0
+18,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+18,L2-L206,L2,Retail,L206,0
+18,L2-L205,L2,Retail,L205,0
+18,L2-L204,L2,Retail,L204,0
+18,L2-L203,L2,Retail,L203,0
+18,L2-L202,L2,Retail,L202,0
+18,L2-L201,L2,Retail,L201,0
+18,L2-L228,L2,Retail,L228,0
+18,L2-L229A,L2,Retail,L229a,0
+18,L2-L229B,L2,Retail,L229b,0
+18,L2-L230,L2,Retail,L230,0
+18,L2-L231,L2,Retail,L231,0
+18,L2-L232,L2,Retail,L232,0
+18,L2-L233,L2,Retail,L233,0
+18,L2-L234,L2,Retail,L234,0
+18,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+18,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+18,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+18,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+18,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+18,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+18,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+18,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+18,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+18,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+18,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+18,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+18,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+18,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+18,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+18,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+18,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+18,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+18,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+18,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+18,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+18,L3-L302,L3,Retail,L302,0
+18,L3-L303,L3,Retail,L303,0
+18,L3-L304,L3,Retail,L304,0
+18,L3-L305,L3,Retail,L305,0
+18,L3-L306,L3,Retail,L306,0
+18,L3-L307,L3,Retail,L307,0
+18,L3-L308A,L3,Retail,L308a,0
+18,L3-L308B,L3,Retail,L308b,0
+18,L3-L308C,L3,Retail,L308c,0
+18,L3-L308D,L3,Retail,L308d,0
+18,L3-L308E,L3,Retail,L308e,0
+18,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+18,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+18,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+18,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+18,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+18,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+18,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+18,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+18,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+18,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+18,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+18,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+18,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+18,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+18,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+19,C-WEST-LOOP,M,Corridor,West atrium loop corridor,193
+19,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1541
+19,C-WEST-MAIN,M,Corridor,West main corridor,1456
+19,C-CENTER-WEST,M,Corridor,Center west corridor,1670
+19,C-CENTER-NORTH,M,Corridor,Center north corridor,922
+19,C-CENTER-SOUTH,M,Corridor,Center south corridor,1679
+19,C-EAST-HUB,M,Corridor,East hub corridor,677
+19,C-EAST-BRIDGE,M,Corridor,East bridge corridor,44
+19,C-EAST-TERMINAL,M,Corridor,East terminal corridor,3
+19,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1459
+19,M37b,M,Retail,M37b,10
+19,M36,M,Retail,M36,4
+19,M35,M,Retail,M35,7
+19,M34,M,Retail,M34,37
+19,M33,M,Retail,M33,88
+19,M32,M,Retail,M32,36
+19,M31,M,Retail,M31,43
+19,M30,M,Retail,M30,101
+19,M29,M,Retail,M29,107
+19,M28,M,Retail,M28,193
+19,M27,M,Retail,M27,80
+19,M26,M,Retail,M26,181
+19,M25,M,Retail,M25,68
+19,M24,M,Retail,M24,63
+19,M23,M,Retail,M23,24
+19,M22,M,Retail,M22,22
+19,M21,M,Anchor_Retail,M21,139
+19,M20,M,Retail,M20,18
+19,M19,M,Retail,M19,6
+19,M17_M18,M,Retail,M17 & M18,33
+19,M16,M,Retail,M16,17
+19,M15,M,Retail,M15,49
+19,M14,M,Retail,M14,24
+19,M13,M,Retail,M13,53
+19,M12b,M,Retail,M12b,15
+19,M12a,M,Anchor_Retail,M12a,4
+19,M10_M11,M,Retail,M10 & M11,0
+19,M09,M,Retail,M09,38
+19,M08,M,Retail,M08,19
+19,M07,M,Retail,M07,67
+19,M06,M,Retail,M06,32
+19,M05,M,Retail,M05,127
+19,M04,M,Retail,M04,46
+19,M03,M,Retail,M03,101
+19,M02,M,Retail,M02,110
+19,M01,M,Anchor_Retail,M01,156
+19,M68,M,Retail,M68,188
+19,M67,M,Retail,M67,144
+19,M66,M,Retail,M66,129
+19,M65,M,Retail,M65,159
+19,M64,M,Retail,M64,204
+19,M63,M,Retail,M63,88
+19,M62,M,Retail,M62,68
+19,M61,M,Retail,M61,132
+19,M60,M,Retail,M60,107
+19,M59,M,Retail,M59,35
+19,M58,M,Retail,M58,99
+19,M57,M,Retail,M57,144
+19,M56,M,Retail,M56,109
+19,M55,M,Retail,M55,97
+19,M54,M,Retail,M54,31
+19,M53,M,Retail,M53,56
+19,M52,M,Retail,M52,64
+19,M51,M,Retail,M51,112
+19,M50,M,Retail,M50,40
+19,M49,M,Retail,M49,33
+19,M48b,M,Retail,M48b,36
+19,M48a,M,Retail,M48a,82
+19,M47,M,Retail,M47,108
+19,M46,M,Retail,M46,109
+19,M45,M,Retail,M45,97
+19,M44,M,Retail,M44,54
+19,M43,M,Retail,M43,92
+19,M42,M,Retail,M42,54
+19,M41a,M,Retail,M41a,100
+19,M41b,M,Retail,M41b,106
+19,M40,M,Retail,M40,10
+19,M39,M,Retail,M39,0
+19,M38,M,Retail,M38,2
+19,M15a,M,Retail_Kiosk,M15a,30
+19,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,11
+19,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,44
+19,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,1
+19,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,22
+19,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,34
+19,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,5
+19,F-ELEV-01,M,Facility_Elevator,Elevator bank,14
+19,F-ELEV-02,M,Facility_Elevator,Elevator bank,10
+19,F-ESC-01,M,Facility_Escalator,Escalator,33
+19,F-ESC-02,M,Facility_Escalator,Escalator,29
+19,F-ESC-03,M,Facility_Escalator,Escalator,27
+19,F-ESC-04,M,Facility_Escalator,Escalator,20
+19,F-ESC-05,M,Facility_Escalator,Escalator,27
+19,F-ESC-06,M,Facility_Escalator,Escalator,9
+19,F-ESC-07,M,Facility_Escalator,Escalator,2
+19,F-PARK-01,M,Facility_Parking,Parking access,24
+19,F-PARK-02,M,Facility_Parking,Parking access,16
+19,F-PARK-03,M,Facility_Parking,Parking access,3
+19,F-INFO-01,M,Facility_Service,Information desk,38
+19,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,30
+19,E-TRANSIT-01,M,Entrance,Southwest transit entrance,150
+19,E-BUS-01,M,Entrance,South transit / bus access,184
+19,E-TRANSIT-02,M,Entrance,South transit / rail access,166
+19,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1405
+19,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,636
+19,MU-C-WEST-MAIN,MU,Corridor,West main corridor,314
+19,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,911
+19,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,615
+19,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1597
+19,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,3809
+19,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,365
+19,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,140
+19,MU-C-EAST-HUB,MU,Corridor,East central corridor,902
+19,MU-C-EAST-WING,MU,Corridor,East wing corridor,343
+19,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,106
+19,MU34,MU,Retail,MU34,62
+19,MU35,MU,Anchor_Retail,MU35,172
+19,MU36,MU,Retail,MU36,73
+19,MU37,MU,Retail,MU37,63
+19,MU38,MU,Retail,MU38,79
+19,MU39,MU,Retail,MU39,88
+19,MU40,MU,Retail,MU40,31
+19,MU41a,MU,Retail,MU41a,130
+19,MU41b,MU,Retail,MU41b,73
+19,MU42,MU,Anchor_Retail,MU42,109
+19,MU43a,MU,Retail,MU43a,22
+19,MU43b,MU,Retail,MU43b,23
+19,MU44,MU,Retail,MU44,30
+19,MU45,MU,Retail,MU45,44
+19,MU45a,MU,Retail,MU45a,47
+19,MU46,MU,Retail,MU46,66
+19,MU47a,MU,Retail,MU47a,106
+19,MU47b,MU,Retail,MU47b,60
+19,MU48,MU,Retail,MU48,92
+19,MU49,MU,Retail,MU49,20
+19,MU50,MU,Retail,MU50,20
+19,MU51,MU,Retail,MU51,55
+19,MU52,MU,Retail,MU52,26
+19,MU53,MU,Retail,MU53,26
+19,MU54,MU,Retail,MU54,17
+19,MU55,MU,Anchor_Retail,MU55,84
+19,MU32_MU33,MU,Retail_Combined,MU32 & MU33,154
+19,MU31,MU,Retail,MU31,102
+19,MU29_MU30,MU,Retail_Combined,MU29 & MU30,64
+19,MU28,MU,Retail,MU28,101
+19,MU27,MU,Retail,MU27,49
+19,MU26,MU,Retail,MU26,38
+19,MU25,MU,Retail,MU25,55
+19,MU24,MU,Retail,MU24,60
+19,MU22,MU,Retail,MU22,91
+19,MU20,MU,Retail,MU20,238
+19,MU21,MU,Retail,MU21,357
+19,MU19,MU,Retail,MU19,226
+19,MU18,MU,Retail,MU18,256
+19,MU17,MU,Retail_Kiosk,MU17,303
+19,MU16g_h,MU,Retail_Combined,MU16g & MU16h,304
+19,MU16f,MU,Retail,MU16f,297
+19,MU16e,MU,Retail,MU16e,255
+19,MU16d,MU,Retail,MU16d,270
+19,MU16c,MU,Retail,MU16c,221
+19,MU16k,MU,Retail_Kiosk,MU16k,219
+19,MU16i,MU,Retail_Kiosk,MU16i,294
+19,MU16j,MU,Retail_Kiosk,MU16j,232
+19,MU16l,MU,Retail_Kiosk,MU16l,230
+19,MU16b,MU,Retail,MU16b,279
+19,MU16a,MU,Retail_Kiosk,MU16a,219
+19,MU15,MU,Retail,MU15,61
+19,MU14,MU,Retail,MU14,70
+19,MU13,MU,Retail,MU13,71
+19,MU12,MU,Retail,MU12,51
+19,MU11,MU,Retail,MU11,25
+19,MU10,MU,Retail,MU10,69
+19,MU08_MU09,MU,Retail_Combined,MU08 & MU09,109
+19,MU07a,MU,Anchor_Retail,MU07a,47
+19,MU07b,MU,Anchor_Retail,MU07b,33
+19,MU06,MU,Retail,MU06,36
+19,MU05,MU,Retail,MU05,50
+19,MU04,MU,Retail,MU04,86
+19,MU03b,MU,Retail,MU03b,59
+19,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,33
+19,MU02a,MU,Retail,MU02a,30
+19,MU01,MU,Anchor_Retail,MU01,14
+19,MU01b,MU,Retail,MU01b,2
+19,MU01c,MU,Retail,MU01c,3
+19,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,41
+19,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,52
+19,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,28
+19,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,47
+19,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,23
+19,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,46
+19,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,12
+19,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,20
+19,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,15
+19,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,17
+19,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,32
+19,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,39
+19,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,49
+19,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,35
+19,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,189
+19,MU-ENT-WEST,MU,Entrance,West entry / exit,140
+19,MU-ENT-EAST,MU,Entrance,East entry / exit,151
+19,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,165
+19,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1633
+19,L1-C-WEST-MAIN,L1,Corridor,West main corridor,1309
+19,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,1151
+19,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,2846
+19,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1767
+19,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,278
+19,L1-C-EAST-HUB,L1,Corridor,East hub corridor,941
+19,L1-C-EAST-WING,L1,Corridor,East wing corridor,250
+19,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,265
+19,L1-L119,L1,Retail,L119,213
+19,L1-L118,L1,Retail,L118,229
+19,L1-L117,L1,Retail,L117,231
+19,L1-L116,L1,Retail,L116,458
+19,L1-L115,L1,Retail,L115,322
+19,L1-L114,L1,Retail,L114,796
+19,L1-L113,L1,Retail,L113,502
+19,L1-L112,L1,Retail,L112,553
+19,L1-L111,L1,Retail,L111,686
+19,L1-L110,L1,Retail,L110,181
+19,L1-L109,L1,Retail,L109,312
+19,L1-L108,L1,Retail,L108,271
+19,L1-L108A,L1,Retail,L108a,237
+19,L1-L1H-1,L1,Retail,L1H(1),128
+19,L1-L106-L107,L1,Retail_Combined,L106 & L107,203
+19,L1-L105,L1,Retail,L105,114
+19,L1-L104,L1,Retail,L104,224
+19,L1-L103,L1,Retail,L103,291
+19,L1-L102,L1,Retail,L102,168
+19,L1-L101,L1,Retail,L101,497
+19,L1-L120B,L1,Retail,L120b,87
+19,L1-L120,L1,Retail,L120,246
+19,L1-L121,L1,Retail,L121,313
+19,L1-L122,L1,Retail,L122,349
+19,L1-L123,L1,Retail,L123,350
+19,L1-L124,L1,Retail,L124,230
+19,L1-L125,L1,Retail,L125,563
+19,L1-MOH-L101,L1,Hotel_Service,MOH L101,9
+19,L1-MOH-L102,L1,Hotel_Service,MOH L102,100
+19,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",23
+19,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,45
+19,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,84
+19,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,90
+19,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,69
+19,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,35
+19,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,80
+19,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,48
+19,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,26
+19,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,98
+19,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,57
+19,L1-F-INFO-WEST,L1,Facility_Service,Information desk,53
+19,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,37
+19,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,26
+19,L1-ENT-WEST,L1,Entrance,West entrance / exit,198
+19,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,221
+19,L1-ENT-EAST,L1,Entrance,East entrance / exit,169
+19,L1-ENT-SOUTH,L1,Entrance,South transit entrance,307
+19,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+19,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+19,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+19,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+19,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+19,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+19,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+19,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+19,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+19,L2-L227,L2,Retail,L227,0
+19,L2-L226,L2,Retail,L226,0
+19,L2-L225B,L2,Retail,L225b,0
+19,L2-L225A,L2,Retail,L225a,0
+19,L2-L224,L2,Retail,L224,0
+19,L2-L223,L2,Retail,L223,0
+19,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+19,L2-L220,L2,Retail,L220,0
+19,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+19,L2-L217,L2,Retail,L217,0
+19,L2-L216,L2,Retail,L216,0
+19,L2-L215,L2,Retail,L215,0
+19,L2-L214,L2,Retail,L214,0
+19,L2-L213,L2,Retail,L213,0
+19,L2-L211,L2,Retail,L211,0
+19,L2-L210B,L2,Retail,L210b,0
+19,L2-L210A,L2,Retail,L210a,0
+19,L2-L209,L2,Retail,L209,0
+19,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+19,L2-L206,L2,Retail,L206,0
+19,L2-L205,L2,Retail,L205,0
+19,L2-L204,L2,Retail,L204,0
+19,L2-L203,L2,Retail,L203,0
+19,L2-L202,L2,Retail,L202,0
+19,L2-L201,L2,Retail,L201,0
+19,L2-L228,L2,Retail,L228,0
+19,L2-L229A,L2,Retail,L229a,0
+19,L2-L229B,L2,Retail,L229b,0
+19,L2-L230,L2,Retail,L230,0
+19,L2-L231,L2,Retail,L231,0
+19,L2-L232,L2,Retail,L232,0
+19,L2-L233,L2,Retail,L233,0
+19,L2-L234,L2,Retail,L234,0
+19,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+19,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+19,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+19,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+19,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+19,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+19,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+19,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+19,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+19,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+19,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+19,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+19,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+19,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+19,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+19,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+19,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+19,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+19,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+19,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+19,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+19,L3-L302,L3,Retail,L302,0
+19,L3-L303,L3,Retail,L303,0
+19,L3-L304,L3,Retail,L304,0
+19,L3-L305,L3,Retail,L305,0
+19,L3-L306,L3,Retail,L306,0
+19,L3-L307,L3,Retail,L307,0
+19,L3-L308A,L3,Retail,L308a,0
+19,L3-L308B,L3,Retail,L308b,0
+19,L3-L308C,L3,Retail,L308c,0
+19,L3-L308D,L3,Retail,L308d,0
+19,L3-L308E,L3,Retail,L308e,0
+19,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+19,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+19,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+19,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+19,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+19,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+19,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+19,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+19,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+19,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+19,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+19,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+19,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+19,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+19,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+20,C-WEST-LOOP,M,Corridor,West atrium loop corridor,209
+20,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1552
+20,C-WEST-MAIN,M,Corridor,West main corridor,1429
+20,C-CENTER-WEST,M,Corridor,Center west corridor,1497
+20,C-CENTER-NORTH,M,Corridor,Center north corridor,795
+20,C-CENTER-SOUTH,M,Corridor,Center south corridor,1497
+20,C-EAST-HUB,M,Corridor,East hub corridor,612
+20,C-EAST-BRIDGE,M,Corridor,East bridge corridor,44
+20,C-EAST-TERMINAL,M,Corridor,East terminal corridor,2
+20,C-SOUTH-ENTRY,M,Corridor,South entry corridor,1371
+20,M37b,M,Retail,M37b,14
+20,M36,M,Retail,M36,19
+20,M35,M,Retail,M35,6
+20,M34,M,Retail,M34,16
+20,M33,M,Retail,M33,108
+20,M32,M,Retail,M32,21
+20,M31,M,Retail,M31,56
+20,M30,M,Retail,M30,81
+20,M29,M,Retail,M29,106
+20,M28,M,Retail,M28,160
+20,M27,M,Retail,M27,66
+20,M26,M,Retail,M26,172
+20,M25,M,Retail,M25,79
+20,M24,M,Retail,M24,75
+20,M23,M,Retail,M23,22
+20,M22,M,Retail,M22,17
+20,M21,M,Anchor_Retail,M21,95
+20,M20,M,Retail,M20,29
+20,M19,M,Retail,M19,22
+20,M17_M18,M,Retail,M17 & M18,34
+20,M16,M,Retail,M16,14
+20,M15,M,Retail,M15,62
+20,M14,M,Retail,M14,31
+20,M13,M,Retail,M13,40
+20,M12b,M,Retail,M12b,17
+20,M12a,M,Anchor_Retail,M12a,2
+20,M10_M11,M,Retail,M10 & M11,7
+20,M09,M,Retail,M09,53
+20,M08,M,Retail,M08,24
+20,M07,M,Retail,M07,50
+20,M06,M,Retail,M06,24
+20,M05,M,Retail,M05,125
+20,M04,M,Retail,M04,62
+20,M03,M,Retail,M03,94
+20,M02,M,Retail,M02,71
+20,M01,M,Anchor_Retail,M01,132
+20,M68,M,Retail,M68,183
+20,M67,M,Retail,M67,116
+20,M66,M,Retail,M66,102
+20,M65,M,Retail,M65,144
+20,M64,M,Retail,M64,221
+20,M63,M,Retail,M63,111
+20,M62,M,Retail,M62,67
+20,M61,M,Retail,M61,114
+20,M60,M,Retail,M60,81
+20,M59,M,Retail,M59,35
+20,M58,M,Retail,M58,87
+20,M57,M,Retail,M57,118
+20,M56,M,Retail,M56,111
+20,M55,M,Retail,M55,87
+20,M54,M,Retail,M54,49
+20,M53,M,Retail,M53,93
+20,M52,M,Retail,M52,63
+20,M51,M,Retail,M51,115
+20,M50,M,Retail,M50,36
+20,M49,M,Retail,M49,16
+20,M48b,M,Retail,M48b,20
+20,M48a,M,Retail,M48a,76
+20,M47,M,Retail,M47,81
+20,M46,M,Retail,M46,120
+20,M45,M,Retail,M45,77
+20,M44,M,Retail,M44,36
+20,M43,M,Retail,M43,86
+20,M42,M,Retail,M42,66
+20,M41a,M,Retail,M41a,114
+20,M41b,M,Retail,M41b,99
+20,M40,M,Retail,M40,15
+20,M39,M,Retail,M39,4
+20,M38,M,Retail,M38,1
+20,M15a,M,Retail_Kiosk,M15a,26
+20,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,7
+20,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,51
+20,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+20,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,20
+20,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,30
+20,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,3
+20,F-ELEV-01,M,Facility_Elevator,Elevator bank,10
+20,F-ELEV-02,M,Facility_Elevator,Elevator bank,15
+20,F-ESC-01,M,Facility_Escalator,Escalator,20
+20,F-ESC-02,M,Facility_Escalator,Escalator,38
+20,F-ESC-03,M,Facility_Escalator,Escalator,29
+20,F-ESC-04,M,Facility_Escalator,Escalator,17
+20,F-ESC-05,M,Facility_Escalator,Escalator,52
+20,F-ESC-06,M,Facility_Escalator,Escalator,11
+20,F-ESC-07,M,Facility_Escalator,Escalator,0
+20,F-PARK-01,M,Facility_Parking,Parking access,21
+20,F-PARK-02,M,Facility_Parking,Parking access,9
+20,F-PARK-03,M,Facility_Parking,Parking access,8
+20,F-INFO-01,M,Facility_Service,Information desk,35
+20,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,19
+20,E-TRANSIT-01,M,Entrance,Southwest transit entrance,128
+20,E-BUS-01,M,Entrance,South transit / bus access,160
+20,E-TRANSIT-02,M,Entrance,South transit / rail access,146
+20,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1492
+20,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,526
+20,MU-C-WEST-MAIN,MU,Corridor,West main corridor,365
+20,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,936
+20,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,610
+20,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1517
+20,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,3085
+20,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,376
+20,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,176
+20,MU-C-EAST-HUB,MU,Corridor,East central corridor,983
+20,MU-C-EAST-WING,MU,Corridor,East wing corridor,234
+20,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,173
+20,MU34,MU,Retail,MU34,63
+20,MU35,MU,Anchor_Retail,MU35,202
+20,MU36,MU,Retail,MU36,101
+20,MU37,MU,Retail,MU37,80
+20,MU38,MU,Retail,MU38,121
+20,MU39,MU,Retail,MU39,101
+20,MU40,MU,Retail,MU40,46
+20,MU41a,MU,Retail,MU41a,81
+20,MU41b,MU,Retail,MU41b,56
+20,MU42,MU,Anchor_Retail,MU42,74
+20,MU43a,MU,Retail,MU43a,27
+20,MU43b,MU,Retail,MU43b,28
+20,MU44,MU,Retail,MU44,57
+20,MU45,MU,Retail,MU45,62
+20,MU45a,MU,Retail,MU45a,56
+20,MU46,MU,Retail,MU46,91
+20,MU47a,MU,Retail,MU47a,145
+20,MU47b,MU,Retail,MU47b,90
+20,MU48,MU,Retail,MU48,143
+20,MU49,MU,Retail,MU49,27
+20,MU50,MU,Retail,MU50,35
+20,MU51,MU,Retail,MU51,72
+20,MU52,MU,Retail,MU52,35
+20,MU53,MU,Retail,MU53,25
+20,MU54,MU,Retail,MU54,18
+20,MU55,MU,Anchor_Retail,MU55,82
+20,MU32_MU33,MU,Retail_Combined,MU32 & MU33,187
+20,MU31,MU,Retail,MU31,107
+20,MU29_MU30,MU,Retail_Combined,MU29 & MU30,63
+20,MU28,MU,Retail,MU28,91
+20,MU27,MU,Retail,MU27,44
+20,MU26,MU,Retail,MU26,39
+20,MU25,MU,Retail,MU25,71
+20,MU24,MU,Retail,MU24,46
+20,MU22,MU,Retail,MU22,64
+20,MU20,MU,Retail,MU20,182
+20,MU21,MU,Retail,MU21,242
+20,MU19,MU,Retail,MU19,162
+20,MU18,MU,Retail,MU18,169
+20,MU17,MU,Retail_Kiosk,MU17,184
+20,MU16g_h,MU,Retail_Combined,MU16g & MU16h,209
+20,MU16f,MU,Retail,MU16f,183
+20,MU16e,MU,Retail,MU16e,175
+20,MU16d,MU,Retail,MU16d,187
+20,MU16c,MU,Retail,MU16c,144
+20,MU16k,MU,Retail_Kiosk,MU16k,163
+20,MU16i,MU,Retail_Kiosk,MU16i,195
+20,MU16j,MU,Retail_Kiosk,MU16j,203
+20,MU16l,MU,Retail_Kiosk,MU16l,194
+20,MU16b,MU,Retail,MU16b,201
+20,MU16a,MU,Retail_Kiosk,MU16a,179
+20,MU15,MU,Retail,MU15,75
+20,MU14,MU,Retail,MU14,104
+20,MU13,MU,Retail,MU13,93
+20,MU12,MU,Retail,MU12,68
+20,MU11,MU,Retail,MU11,25
+20,MU10,MU,Retail,MU10,75
+20,MU08_MU09,MU,Retail_Combined,MU08 & MU09,107
+20,MU07a,MU,Anchor_Retail,MU07a,12
+20,MU07b,MU,Anchor_Retail,MU07b,30
+20,MU06,MU,Retail,MU06,28
+20,MU05,MU,Retail,MU05,60
+20,MU04,MU,Retail,MU04,121
+20,MU03b,MU,Retail,MU03b,79
+20,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,46
+20,MU02a,MU,Retail,MU02a,53
+20,MU01,MU,Anchor_Retail,MU01,31
+20,MU01b,MU,Retail,MU01b,8
+20,MU01c,MU,Retail,MU01c,4
+20,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,37
+20,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,33
+20,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,25
+20,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,38
+20,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,44
+20,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,49
+20,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,9
+20,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,13
+20,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,7
+20,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,3
+20,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,49
+20,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,45
+20,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,58
+20,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,25
+20,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,158
+20,MU-ENT-WEST,MU,Entrance,West entry / exit,116
+20,MU-ENT-EAST,MU,Entrance,East entry / exit,102
+20,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,142
+20,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1390
+20,L1-C-WEST-MAIN,L1,Corridor,West main corridor,1152
+20,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,1078
+20,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,2519
+20,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1576
+20,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,235
+20,L1-C-EAST-HUB,L1,Corridor,East hub corridor,815
+20,L1-C-EAST-WING,L1,Corridor,East wing corridor,177
+20,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,274
+20,L1-L119,L1,Retail,L119,216
+20,L1-L118,L1,Retail,L118,218
+20,L1-L117,L1,Retail,L117,217
+20,L1-L116,L1,Retail,L116,414
+20,L1-L115,L1,Retail,L115,298
+20,L1-L114,L1,Retail,L114,686
+20,L1-L113,L1,Retail,L113,511
+20,L1-L112,L1,Retail,L112,534
+20,L1-L111,L1,Retail,L111,588
+20,L1-L110,L1,Retail,L110,144
+20,L1-L109,L1,Retail,L109,270
+20,L1-L108,L1,Retail,L108,231
+20,L1-L108A,L1,Retail,L108a,192
+20,L1-L1H-1,L1,Retail,L1H(1),95
+20,L1-L106-L107,L1,Retail_Combined,L106 & L107,191
+20,L1-L105,L1,Retail,L105,127
+20,L1-L104,L1,Retail,L104,209
+20,L1-L103,L1,Retail,L103,240
+20,L1-L102,L1,Retail,L102,125
+20,L1-L101,L1,Retail,L101,465
+20,L1-L120B,L1,Retail,L120b,100
+20,L1-L120,L1,Retail,L120,231
+20,L1-L121,L1,Retail,L121,287
+20,L1-L122,L1,Retail,L122,311
+20,L1-L123,L1,Retail,L123,317
+20,L1-L124,L1,Retail,L124,241
+20,L1-L125,L1,Retail,L125,485
+20,L1-MOH-L101,L1,Hotel_Service,MOH L101,11
+20,L1-MOH-L102,L1,Hotel_Service,MOH L102,65
+20,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",16
+20,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,37
+20,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,68
+20,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,77
+20,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,59
+20,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,49
+20,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,58
+20,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,61
+20,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,25
+20,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,76
+20,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,53
+20,L1-F-INFO-WEST,L1,Facility_Service,Information desk,54
+20,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,24
+20,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,40
+20,L1-ENT-WEST,L1,Entrance,West entrance / exit,171
+20,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,167
+20,L1-ENT-EAST,L1,Entrance,East entrance / exit,143
+20,L1-ENT-SOUTH,L1,Entrance,South transit entrance,209
+20,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+20,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+20,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+20,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+20,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+20,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+20,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+20,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+20,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+20,L2-L227,L2,Retail,L227,0
+20,L2-L226,L2,Retail,L226,0
+20,L2-L225B,L2,Retail,L225b,0
+20,L2-L225A,L2,Retail,L225a,0
+20,L2-L224,L2,Retail,L224,0
+20,L2-L223,L2,Retail,L223,0
+20,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+20,L2-L220,L2,Retail,L220,0
+20,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+20,L2-L217,L2,Retail,L217,0
+20,L2-L216,L2,Retail,L216,0
+20,L2-L215,L2,Retail,L215,0
+20,L2-L214,L2,Retail,L214,0
+20,L2-L213,L2,Retail,L213,0
+20,L2-L211,L2,Retail,L211,0
+20,L2-L210B,L2,Retail,L210b,0
+20,L2-L210A,L2,Retail,L210a,0
+20,L2-L209,L2,Retail,L209,0
+20,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+20,L2-L206,L2,Retail,L206,0
+20,L2-L205,L2,Retail,L205,0
+20,L2-L204,L2,Retail,L204,0
+20,L2-L203,L2,Retail,L203,0
+20,L2-L202,L2,Retail,L202,0
+20,L2-L201,L2,Retail,L201,0
+20,L2-L228,L2,Retail,L228,0
+20,L2-L229A,L2,Retail,L229a,0
+20,L2-L229B,L2,Retail,L229b,0
+20,L2-L230,L2,Retail,L230,0
+20,L2-L231,L2,Retail,L231,0
+20,L2-L232,L2,Retail,L232,0
+20,L2-L233,L2,Retail,L233,0
+20,L2-L234,L2,Retail,L234,0
+20,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+20,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+20,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+20,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+20,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+20,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+20,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+20,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+20,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+20,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+20,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+20,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+20,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+20,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+20,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+20,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+20,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+20,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+20,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+20,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+20,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+20,L3-L302,L3,Retail,L302,0
+20,L3-L303,L3,Retail,L303,0
+20,L3-L304,L3,Retail,L304,0
+20,L3-L305,L3,Retail,L305,0
+20,L3-L306,L3,Retail,L306,0
+20,L3-L307,L3,Retail,L307,0
+20,L3-L308A,L3,Retail,L308a,0
+20,L3-L308B,L3,Retail,L308b,0
+20,L3-L308C,L3,Retail,L308c,0
+20,L3-L308D,L3,Retail,L308d,0
+20,L3-L308E,L3,Retail,L308e,0
+20,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+20,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+20,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+20,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+20,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+20,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+20,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+20,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+20,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+20,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+20,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+20,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+20,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+20,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+20,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0
+21,C-WEST-LOOP,M,Corridor,West atrium loop corridor,155
+21,C-WEST-VERTICAL,M,Corridor,West vertical corridor,1206
+21,C-WEST-MAIN,M,Corridor,West main corridor,1133
+21,C-CENTER-WEST,M,Corridor,Center west corridor,1248
+21,C-CENTER-NORTH,M,Corridor,Center north corridor,657
+21,C-CENTER-SOUTH,M,Corridor,Center south corridor,1145
+21,C-EAST-HUB,M,Corridor,East hub corridor,510
+21,C-EAST-BRIDGE,M,Corridor,East bridge corridor,41
+21,C-EAST-TERMINAL,M,Corridor,East terminal corridor,0
+21,C-SOUTH-ENTRY,M,Corridor,South entry corridor,988
+21,M37b,M,Retail,M37b,4
+21,M36,M,Retail,M36,19
+21,M35,M,Retail,M35,7
+21,M34,M,Retail,M34,21
+21,M33,M,Retail,M33,101
+21,M32,M,Retail,M32,39
+21,M31,M,Retail,M31,55
+21,M30,M,Retail,M30,90
+21,M29,M,Retail,M29,75
+21,M28,M,Retail,M28,148
+21,M27,M,Retail,M27,82
+21,M26,M,Retail,M26,182
+21,M25,M,Retail,M25,68
+21,M24,M,Retail,M24,69
+21,M23,M,Retail,M23,18
+21,M22,M,Retail,M22,16
+21,M21,M,Anchor_Retail,M21,89
+21,M20,M,Retail,M20,21
+21,M19,M,Retail,M19,22
+21,M17_M18,M,Retail,M17 & M18,23
+21,M16,M,Retail,M16,14
+21,M15,M,Retail,M15,39
+21,M14,M,Retail,M14,20
+21,M13,M,Retail,M13,57
+21,M12b,M,Retail,M12b,18
+21,M12a,M,Anchor_Retail,M12a,9
+21,M10_M11,M,Retail,M10 & M11,7
+21,M09,M,Retail,M09,48
+21,M08,M,Retail,M08,28
+21,M07,M,Retail,M07,29
+21,M06,M,Retail,M06,28
+21,M05,M,Retail,M05,88
+21,M04,M,Retail,M04,36
+21,M03,M,Retail,M03,74
+21,M02,M,Retail,M02,90
+21,M01,M,Anchor_Retail,M01,101
+21,M68,M,Retail,M68,129
+21,M67,M,Retail,M67,100
+21,M66,M,Retail,M66,83
+21,M65,M,Retail,M65,110
+21,M64,M,Retail,M64,175
+21,M63,M,Retail,M63,88
+21,M62,M,Retail,M62,45
+21,M61,M,Retail,M61,107
+21,M60,M,Retail,M60,81
+21,M59,M,Retail,M59,30
+21,M58,M,Retail,M58,88
+21,M57,M,Retail,M57,102
+21,M56,M,Retail,M56,74
+21,M55,M,Retail,M55,81
+21,M54,M,Retail,M54,37
+21,M53,M,Retail,M53,67
+21,M52,M,Retail,M52,55
+21,M51,M,Retail,M51,78
+21,M50,M,Retail,M50,22
+21,M49,M,Retail,M49,29
+21,M48b,M,Retail,M48b,25
+21,M48a,M,Retail,M48a,59
+21,M47,M,Retail,M47,66
+21,M46,M,Retail,M46,72
+21,M45,M,Retail,M45,71
+21,M44,M,Retail,M44,29
+21,M43,M,Retail,M43,75
+21,M42,M,Retail,M42,35
+21,M41a,M,Retail,M41a,76
+21,M41b,M,Retail,M41b,86
+21,M40,M,Retail,M40,10
+21,M39,M,Retail,M39,2
+21,M38,M,Retail,M38,3
+21,M15a,M,Retail_Kiosk,M15a,8
+21,A-NORTH-01,M,Unknown_Area,Unlabeled north anchor area,4
+21,A-SOUTH-01,M,Unknown_Area,Unlabeled south anchor area,21
+21,A-EAST-01,M,Unknown_Area,Unlabeled east anchor area,0
+21,F-WC-01,M,Facility_Restroom,Restroom / Accessible WC,24
+21,F-WC-02,M,Facility_Restroom,Restroom / Accessible WC,23
+21,F-WC-03,M,Facility_Restroom,Restroom / Accessible WC,2
+21,F-ELEV-01,M,Facility_Elevator,Elevator bank,15
+21,F-ELEV-02,M,Facility_Elevator,Elevator bank,12
+21,F-ESC-01,M,Facility_Escalator,Escalator,16
+21,F-ESC-02,M,Facility_Escalator,Escalator,21
+21,F-ESC-03,M,Facility_Escalator,Escalator,19
+21,F-ESC-04,M,Facility_Escalator,Escalator,9
+21,F-ESC-05,M,Facility_Escalator,Escalator,36
+21,F-ESC-06,M,Facility_Escalator,Escalator,12
+21,F-ESC-07,M,Facility_Escalator,Escalator,1
+21,F-PARK-01,M,Facility_Parking,Parking access,32
+21,F-PARK-02,M,Facility_Parking,Parking access,20
+21,F-PARK-03,M,Facility_Parking,Parking access,8
+21,F-INFO-01,M,Facility_Service,Information desk,36
+21,F-SERVICE-01,M,Facility_Service,Service counter / luggage icon,24
+21,E-TRANSIT-01,M,Entrance,Southwest transit entrance,81
+21,E-BUS-01,M,Entrance,South transit / bus access,93
+21,E-TRANSIT-02,M,Entrance,South transit / rail access,120
+21,MU-C-WEST-LOOP,MU,Corridor,West atrium loop corridor,1264
+21,MU-C-WEST-NORTH,MU,Corridor,Northwest corridor,565
+21,MU-C-WEST-MAIN,MU,Corridor,West main corridor,224
+21,MU-C-WEST-SOUTH,MU,Corridor,Southwest corridor,720
+21,MU-C-SOUTH-COURT,MU,Corridor,Southwest court corridor,512
+21,MU-C-CENTER-MAIN,MU,Corridor,Central main corridor,1178
+21,MU-C-NORTH-COURT,MU,Corridor,North central court corridor,2534
+21,MU-C-CENTER-HUB,MU,Corridor,Central hub corridor,274
+21,MU-C-VERTICAL,MU,Corridor,Central vertical corridor,124
+21,MU-C-EAST-HUB,MU,Corridor,East central corridor,669
+21,MU-C-EAST-WING,MU,Corridor,East wing corridor,170
+21,MU-C-SOUTH-EAST,MU,Corridor,Southeast lower corridor,121
+21,MU34,MU,Retail,MU34,65
+21,MU35,MU,Anchor_Retail,MU35,187
+21,MU36,MU,Retail,MU36,71
+21,MU37,MU,Retail,MU37,70
+21,MU38,MU,Retail,MU38,85
+21,MU39,MU,Retail,MU39,103
+21,MU40,MU,Retail,MU40,38
+21,MU41a,MU,Retail,MU41a,86
+21,MU41b,MU,Retail,MU41b,49
+21,MU42,MU,Anchor_Retail,MU42,92
+21,MU43a,MU,Retail,MU43a,18
+21,MU43b,MU,Retail,MU43b,22
+21,MU44,MU,Retail,MU44,33
+21,MU45,MU,Retail,MU45,47
+21,MU45a,MU,Retail,MU45a,43
+21,MU46,MU,Retail,MU46,81
+21,MU47a,MU,Retail,MU47a,118
+21,MU47b,MU,Retail,MU47b,78
+21,MU48,MU,Retail,MU48,110
+21,MU49,MU,Retail,MU49,22
+21,MU50,MU,Retail,MU50,21
+21,MU51,MU,Retail,MU51,55
+21,MU52,MU,Retail,MU52,12
+21,MU53,MU,Retail,MU53,23
+21,MU54,MU,Retail,MU54,21
+21,MU55,MU,Anchor_Retail,MU55,75
+21,MU32_MU33,MU,Retail_Combined,MU32 & MU33,147
+21,MU31,MU,Retail,MU31,119
+21,MU29_MU30,MU,Retail_Combined,MU29 & MU30,77
+21,MU28,MU,Retail,MU28,91
+21,MU27,MU,Retail,MU27,51
+21,MU26,MU,Retail,MU26,57
+21,MU25,MU,Retail,MU25,72
+21,MU24,MU,Retail,MU24,48
+21,MU22,MU,Retail,MU22,54
+21,MU20,MU,Retail,MU20,136
+21,MU21,MU,Retail,MU21,197
+21,MU19,MU,Retail,MU19,131
+21,MU18,MU,Retail,MU18,146
+21,MU17,MU,Retail_Kiosk,MU17,168
+21,MU16g_h,MU,Retail_Combined,MU16g & MU16h,164
+21,MU16f,MU,Retail,MU16f,163
+21,MU16e,MU,Retail,MU16e,127
+21,MU16d,MU,Retail,MU16d,158
+21,MU16c,MU,Retail,MU16c,156
+21,MU16k,MU,Retail_Kiosk,MU16k,129
+21,MU16i,MU,Retail_Kiosk,MU16i,188
+21,MU16j,MU,Retail_Kiosk,MU16j,174
+21,MU16l,MU,Retail_Kiosk,MU16l,144
+21,MU16b,MU,Retail,MU16b,184
+21,MU16a,MU,Retail_Kiosk,MU16a,133
+21,MU15,MU,Retail,MU15,62
+21,MU14,MU,Retail,MU14,63
+21,MU13,MU,Retail,MU13,57
+21,MU12,MU,Retail,MU12,47
+21,MU11,MU,Retail,MU11,9
+21,MU10,MU,Retail,MU10,57
+21,MU08_MU09,MU,Retail_Combined,MU08 & MU09,69
+21,MU07a,MU,Anchor_Retail,MU07a,6
+21,MU07b,MU,Anchor_Retail,MU07b,10
+21,MU06,MU,Retail,MU06,23
+21,MU05,MU,Retail,MU05,49
+21,MU04,MU,Retail,MU04,66
+21,MU03b,MU,Retail,MU03b,40
+21,MU02b_MU03a,MU,Retail_Combined,MU02b & MU03a,38
+21,MU02a,MU,Retail,MU02a,49
+21,MU01,MU,Anchor_Retail,MU01,19
+21,MU01b,MU,Retail,MU01b,4
+21,MU01c,MU,Retail,MU01c,2
+21,MU-F-WC-NW,MU,Facility_Restroom,Restroom / Accessible WC,26
+21,MU-F-WC-CENTER,MU,Facility_Restroom,Restroom / Accessible WC,29
+21,MU-F-WC-SW,MU,Facility_Restroom,Restroom / Accessible WC,38
+21,MU-F-ELEV-CENTER,MU,Facility_Elevator,Elevator,40
+21,MU-F-ESC-WEST,MU,Facility_Escalator,Escalator,25
+21,MU-F-ESC-CENTER-W,MU,Facility_Escalator,Escalator,25
+21,MU-F-ESC-CENTER-N,MU,Facility_Escalator,Escalator,7
+21,MU-F-ESC-CENTER-S,MU,Facility_Escalator,Escalator,6
+21,MU-F-ESC-EAST-W,MU,Facility_Escalator,Escalator,10
+21,MU-F-ESC-EAST-E,MU,Facility_Escalator,Escalator,0
+21,MU-F-ESC-SW,MU,Facility_Escalator,Escalator,34
+21,MU-A-NW,MU,Unknown_Area,Unlabeled northwest anchor area,34
+21,MU-A-CENTER-E,MU,Unknown_Area,Unlabeled center-east anchor area,48
+21,MU-A-SW,MU,Unknown_Area,Unlabeled southwest anchor area,38
+21,MU-ENT-NORTH,MU,Entrance,North vertical entry / exit,96
+21,MU-ENT-WEST,MU,Entrance,West entry / exit,75
+21,MU-ENT-EAST,MU,Entrance,East entry / exit,74
+21,MU-ENT-SOUTHWEST,MU,Entrance,Southwest entry / exit,93
+21,L1-C-WEST-ATRIUM,L1,Corridor,West atrium corridor,1048
+21,L1-C-WEST-MAIN,L1,Corridor,West main corridor,899
+21,L1-C-SOUTHWEST,L1,Corridor,Southwest lower corridor,851
+21,L1-C-CENTRAL-COURT,L1,Corridor,Central court corridor,2046
+21,L1-C-CENTRAL-SPINE,L1,Corridor,Central spine corridor,1342
+21,L1-C-HOTEL-LINK,L1,Corridor,Mandarin Oriental link corridor,214
+21,L1-C-EAST-HUB,L1,Corridor,East hub corridor,652
+21,L1-C-EAST-WING,L1,Corridor,East wing corridor,139
+21,L1-C-SOUTHEAST,L1,Corridor,Southeast lower corridor,203
+21,L1-L119,L1,Retail,L119,134
+21,L1-L118,L1,Retail,L118,148
+21,L1-L117,L1,Retail,L117,170
+21,L1-L116,L1,Retail,L116,353
+21,L1-L115,L1,Retail,L115,250
+21,L1-L114,L1,Retail,L114,550
+21,L1-L113,L1,Retail,L113,411
+21,L1-L112,L1,Retail,L112,405
+21,L1-L111,L1,Retail,L111,476
+21,L1-L110,L1,Retail,L110,155
+21,L1-L109,L1,Retail,L109,216
+21,L1-L108,L1,Retail,L108,193
+21,L1-L108A,L1,Retail,L108a,123
+21,L1-L1H-1,L1,Retail,L1H(1),84
+21,L1-L106-L107,L1,Retail_Combined,L106 & L107,149
+21,L1-L105,L1,Retail,L105,117
+21,L1-L104,L1,Retail,L104,165
+21,L1-L103,L1,Retail,L103,184
+21,L1-L102,L1,Retail,L102,107
+21,L1-L101,L1,Retail,L101,398
+21,L1-L120B,L1,Retail,L120b,84
+21,L1-L120,L1,Retail,L120,204
+21,L1-L121,L1,Retail,L121,229
+21,L1-L122,L1,Retail,L122,217
+21,L1-L123,L1,Retail,L123,242
+21,L1-L124,L1,Retail,L124,175
+21,L1-L125,L1,Retail,L125,386
+21,L1-MOH-L101,L1,Hotel_Service,MOH L101,10
+21,L1-MOH-L102,L1,Hotel_Service,MOH L102,73
+21,L1-HOTEL-MANDARIN,L1,Hotel,"Mandarin Oriental, Guangzhou",23
+21,L1-TOWER-1,L1,Office_Tower,Taikoo Hui Tower 1,36
+21,L1-TOWER-2,L1,Office_Tower,Taikoo Hui Tower 2,66
+21,L1-F-ESC-WEST,L1,Facility_Escalator,Escalator,64
+21,L1-F-ESC-WEST-MID,L1,Facility_Escalator,Escalator,35
+21,L1-F-ESC-CENTER,L1,Facility_Escalator,Escalator,36
+21,L1-F-ESC-CENTER-SOUTH,L1,Facility_Escalator,Escalator,54
+21,L1-F-ESC-EAST-MID,L1,Facility_Escalator,Escalator,42
+21,L1-F-ESC-EAST,L1,Facility_Escalator,Escalator,15
+21,L1-F-WC-WEST,L1,Facility_Restroom,Restroom / Accessible WC,86
+21,L1-F-ELEVATOR-CENTER,L1,Facility_Elevator,Elevator,55
+21,L1-F-INFO-WEST,L1,Facility_Service,Information desk,52
+21,L1-F-SIGNAGE-EAST,L1,Facility_Service,1F signage / directory,16
+21,L1-F-HSBC,L1,Facility_Bank_ATM,HSBC ATM / banking facility,31
+21,L1-ENT-WEST,L1,Entrance,West entrance / exit,128
+21,L1-ENT-NORTH,L1,Entrance,North car drop-off entrance,98
+21,L1-ENT-EAST,L1,Entrance,East entrance / exit,95
+21,L1-ENT-SOUTH,L1,Entrance,South transit entrance,164
+21,L2-C-WEST-ATRIUM,L2,Corridor,West atrium corridor,0
+21,L2-C-WEST-MAIN,L2,Corridor,West main corridor,0
+21,L2-C-SOUTHWEST,L2,Corridor,Southwest lower corridor,0
+21,L2-C-CENTRAL-COURT,L2,Corridor,Central court corridor,0
+21,L2-C-CENTRAL-SPINE,L2,Corridor,Central spine corridor,0
+21,L2-C-HOTEL-LINK,L2,Corridor,Mandarin Oriental link corridor,0
+21,L2-C-EAST-HUB,L2,Corridor,East hub corridor,0
+21,L2-C-EAST-WING,L2,Corridor,East wing corridor,0
+21,L2-C-SOUTHEAST,L2,Corridor,Southeast lower corridor,0
+21,L2-L227,L2,Retail,L227,0
+21,L2-L226,L2,Retail,L226,0
+21,L2-L225B,L2,Retail,L225b,0
+21,L2-L225A,L2,Retail,L225a,0
+21,L2-L224,L2,Retail,L224,0
+21,L2-L223,L2,Retail,L223,0
+21,L2-L221-L222,L2,Retail_Combined,L221 & L222,0
+21,L2-L220,L2,Retail,L220,0
+21,L2-L218-L219,L2,Retail_Combined,L218 & L219,0
+21,L2-L217,L2,Retail,L217,0
+21,L2-L216,L2,Retail,L216,0
+21,L2-L215,L2,Retail,L215,0
+21,L2-L214,L2,Retail,L214,0
+21,L2-L213,L2,Retail,L213,0
+21,L2-L211,L2,Retail,L211,0
+21,L2-L210B,L2,Retail,L210b,0
+21,L2-L210A,L2,Retail,L210a,0
+21,L2-L209,L2,Retail,L209,0
+21,L2-L207-L208,L2,Retail_Combined,L207 & L208,0
+21,L2-L206,L2,Retail,L206,0
+21,L2-L205,L2,Retail,L205,0
+21,L2-L204,L2,Retail,L204,0
+21,L2-L203,L2,Retail,L203,0
+21,L2-L202,L2,Retail,L202,0
+21,L2-L201,L2,Retail,L201,0
+21,L2-L228,L2,Retail,L228,0
+21,L2-L229A,L2,Retail,L229a,0
+21,L2-L229B,L2,Retail,L229b,0
+21,L2-L230,L2,Retail,L230,0
+21,L2-L231,L2,Retail,L231,0
+21,L2-L232,L2,Retail,L232,0
+21,L2-L233,L2,Retail,L233,0
+21,L2-L234,L2,Retail,L234,0
+21,L2-HOTEL-MANDARIN,L2,Hotel,"Mandarin Oriental, Guangzhou",0
+21,L2-TOWER-1,L2,Office_Tower,Taikoo Hui Tower 1,0
+21,L2-TOWER-2,L2,Office_Tower,Taikoo Hui Tower 2,0
+21,L2-A-WEST-NORTH,L2,Unknown_Area,Unlabeled west upper service area,0
+21,L2-A-HOTEL-CONNECTOR,L2,Unknown_Area,Unlabeled hotel connector area,0
+21,L2-F-WC-WEST,L2,Facility_Restroom,Restroom / Accessible WC,0
+21,L2-F-WC-CENTER,L2,Facility_Restroom,Restroom / Accessible WC,0
+21,L2-F-ELEVATOR-CENTER,L2,Facility_Elevator,Elevator,0
+21,L2-F-ESC-WEST,L2,Facility_Escalator,Escalator,0
+21,L2-F-ESC-WEST-MID,L2,Facility_Escalator,Escalator,0
+21,L2-F-ESC-CENTER,L2,Facility_Escalator,Escalator,0
+21,L2-F-ESC-SOUTH,L2,Facility_Escalator,Escalator,0
+21,L2-F-ESC-EAST-MID,L2,Facility_Escalator,Escalator,0
+21,L2-F-ESC-EAST,L2,Facility_Escalator,Escalator,0
+21,L3-C-WEST-LOOP,L3,Corridor,West loop corridor,0
+21,L3-C-CENTRAL-SPINE,L3,Corridor,Central curved spine corridor,0
+21,L3-C-NORTH-RETAIL,L3,Corridor,North retail corridor,0
+21,L3-C-HOTEL-LINK,L3,Corridor,Mandarin Oriental link corridor,0
+21,L3-C-EAST-HUB,L3,Corridor,East hub corridor,0
+21,L3-C-EAST-WING,L3,Corridor,East wing corridor,0
+21,L3-C-SOUTH-WALK,L3,Corridor,South lower walkway,0
+21,L3-L302,L3,Retail,L302,0
+21,L3-L303,L3,Retail,L303,0
+21,L3-L304,L3,Retail,L304,0
+21,L3-L305,L3,Retail,L305,0
+21,L3-L306,L3,Retail,L306,0
+21,L3-L307,L3,Retail,L307,0
+21,L3-L308A,L3,Retail,L308a,0
+21,L3-L308B,L3,Retail,L308b,0
+21,L3-L308C,L3,Retail,L308c,0
+21,L3-L308D,L3,Retail,L308d,0
+21,L3-L308E,L3,Retail,L308e,0
+21,L3-HOTEL-MANDARIN,L3,Hotel,"Mandarin Oriental, Guangzhou",0
+21,L3-TOWER-1,L3,Office_Tower,Taikoo Hui Tower 1,0
+21,L3-TOWER-2,L3,Office_Tower,Taikoo Hui Tower 2,0
+21,L3-G-WEST-NORTH,L3,Landscape_Terrace,West north landscaped terrace,0
+21,L3-G-WEST-MAIN,L3,Landscape_Terrace,West central landscaped terrace,0
+21,L3-G-SOUTH-CENTER,L3,Landscape_Terrace,South central landscaped terrace,0
+21,L3-G-CENTER-WAVE,L3,Landscape_Terrace,Central wave landscaped terrace,0
+21,L3-G-HOTEL-EAST,L3,Landscape_Terrace,Hotel east landscaped terrace,0
+21,L3-G-EAST-SOUTH,L3,Landscape_Terrace,East south landscaped terrace,0
+21,L3-F-ELEVATOR-CENTER,L3,Facility_Elevator,Elevator,0
+21,L3-F-ESC-WEST,L3,Facility_Escalator,Escalator,0
+21,L3-F-ESC-WEST-MID,L3,Facility_Escalator,Escalator,0
+21,L3-F-ESC-CENTER-SOUTH,L3,Facility_Escalator,Escalator,0
+21,L3-F-ESC-CENTER-EAST,L3,Facility_Escalator,Escalator,0
+21,L3-F-ESC-EAST,L3,Facility_Escalator,Escalator,0

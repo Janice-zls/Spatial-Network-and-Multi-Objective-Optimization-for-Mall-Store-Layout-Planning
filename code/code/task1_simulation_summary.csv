@@ -1,0 +1,12 @@
+﻿metric,value
+node_count,347
+store_count,128
+entrance_count,11
+simulated_total_flow_records,468397
+total_revenue,8494955.83
+meal_purpose_customer_count,4663
+shopping_purpose_customer_count,3268
+wander_customer_count,4546
+family_customer_count,2460
+peak_revenue_hour,20
+peak_customer_hour,18

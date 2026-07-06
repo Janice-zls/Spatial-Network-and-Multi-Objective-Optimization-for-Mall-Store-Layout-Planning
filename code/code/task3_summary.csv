@@ -1,0 +1,10 @@
+﻿metric,value
+candidate_count,54
+pareto_count,9
+best_compromise_solution,进化扰动方案46
+best_revenue_solution,进化扰动方案11
+best_satisfaction_solution,进化扰动方案6
+max_revenue,106512672.5336
+max_profit,30154256.5134
+min_gini,0.679102
+max_satisfaction,0.609644

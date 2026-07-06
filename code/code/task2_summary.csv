@@ -1,0 +1,10 @@
+﻿metric,value
+store_count,128
+real_total_revenue,73489897.3482
+optimized_total_revenue,104971111.6648
+revenue_gain,31481214.3166
+improvement_rate,0.428375
+moved_store_count,126
+move_rate,0.984375
+iterations,12800
+accepted_steps,4517
